@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] C:\Users\dmoraes\.android\build-cache\dc2908c2b114c322dfe7f71739d17cda125db91b\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] C:\Users\dmoraes\.android\build-cache\dc2908c2b114c322dfe7f71739d17cda125db91b\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dmoraes\.android\build-cache\e3d7cf95900c2b693ff8d169dc1cce1a130e9802\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] C:\Users\dmoraes\.android\build-cache\dc2908c2b114c322dfe7f71739d17cda125db91b\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] C:\Users\dmoraes\.android\build-cache\aebd92d47c4e56178c5dd612333ce3d7dee7e650\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] C:\Users\dmoraes\.android\build-cache\0d9de9f06eb9c2feaf540d9822f89f88318dd876\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] C:\Users\dmoraes\.android\build-cache\5fd63eed842fc1301355b54bb6c7928b229fc6ff\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\dmoraes\.android\build-cache\33b80b97104323844a6aea563f3b3a12d5f5a9a8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\dmoraes\.android\build-cache\43f9ad4f5548378ac9921025f917b7b5b95d128a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:14:9-41
+	android:theme
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:18:9-40
+activity#br.com.ddmsoftware.metromaps.MainActivity
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:26:27-74
+activity#br.com.ddmsoftware.metromaps.ResultActivity
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:29:19-49
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\dmoraes\.android\build-cache\43f9ad4f5548378ac9921025f917b7b5b95d128a\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:32:13-58
+activity#br.com.ddmsoftware.metromaps.AdmobActivity
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:35:9-37:69
+	android:label
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:37:13-57
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:36:13-42
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:38:9-41:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] C:\Users\dmoraes\.android\build-cache\dc2908c2b114c322dfe7f71739d17cda125db91b\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:40:13-122
+	android:theme
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml:39:13-65
+uses-sdk
+INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dmoraes\.android\build-cache\e3d7cf95900c2b693ff8d169dc1cce1a130e9802\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] C:\Users\dmoraes\.android\build-cache\601d9d4d996e04fa9a3fdc977276410548813fcb\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] C:\Users\dmoraes\.android\build-cache\473bcbc62efa9e8102b46504665f2350b6d0fb6e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] C:\Users\dmoraes\.android\build-cache\dc2908c2b114c322dfe7f71739d17cda125db91b\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] C:\Users\dmoraes\.android\build-cache\aebd92d47c4e56178c5dd612333ce3d7dee7e650\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] C:\Users\dmoraes\.android\build-cache\0d9de9f06eb9c2feaf540d9822f89f88318dd876\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] C:\Users\dmoraes\.android\build-cache\5fd63eed842fc1301355b54bb6c7928b229fc6ff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\dmoraes\.android\build-cache\33b80b97104323844a6aea563f3b3a12d5f5a9a8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\dmoraes\.android\build-cache\43f9ad4f5548378ac9921025f917b7b5b95d128a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MetroMaps\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\42932e882281112582d91c6069ab79774378c793\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\74586470e3d392e85a02cfc2a5a5a16b127a1146\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0340bf2f8978e42edd63da095e0245cc9c24cf6e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f2e15fda155b8940647a27fa35c1781304202c3c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\3bac6ba44b47454e689897fbf20ff64535a22ff4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\fa102a828b30353c328d7c2c38edb140098f04f6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\c3a86a22c9683d69cfdf2e7a8d04a24b42374e8c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\921d0629610e4d416a0c2c2405f5d28c1eaa778d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\770bf61d1ce9bd8189bb0c3ea158abb3552b56b5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\0c4da80ec8bbe868563542ab4cbe976acecae6b3\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\dmoraes\.android\build-cache\f42d8296dd20005938e16b7b2956dcc647a3fe81\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\dmoraes\.android\build-cache\153deb94f6e392b6e36e67976655125c7d8a1e70\output\AndroidManifest.xml:19:19-85

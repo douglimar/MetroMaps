@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.ddmsoftware.metromaps.ResultActivity">
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+
+    <com.github.chrisbanes.photoview.PhotoView
+        android:id="@+id/photo_view2"
+        android:layout_width="match_parent"
+        android:src="@drawable/mapa_maceio"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+
+
+</LinearLayout>
