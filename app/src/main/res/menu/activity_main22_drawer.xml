@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Brazil">
+        <menu>
+            <item
+                android:id="@+id/nav_maceio"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Maceió" />
+            <item
+                android:id="@+id/nav_recife"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Recife" />
+            <item
+                android:id="@+id/nav_brasilia"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Brasilia" />
+            <item
+                android:id="@+id/nav_joaopessoa"
+                android:icon="@drawable/ic_menu_send"
+                android:title="João Pessoa" />
+            <item
+                android:id="@+id/nav_natal"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Natal" />
+            <item
+                android:id="@+id/nav_belohorizonte"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Belo Horizonte" />
+
+            <item
+                android:id="@+id/nav_sao_paulo"
+                android:icon="@drawable/ic_menu_send"
+                android:title="São Paulo (com legenda)" />
+            <item
+                android:id="@+id/nav_sao_paulo_sem_legenda"
+                android:icon="@drawable/ic_menu_send"
+                android:title="São Paulo (sem legenda)" />
+
+            <item
+                android:id="@+id/nav_rio_janeiro"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Rio de Janeiro" />
+
+            <item
+                android:id="@+id/nav_fortaleza"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Fortaleza" />
+
+            <item
+                android:id="@+id/nav_salvador"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Salvador" />
+
+            <item
+                android:id="@+id/nav_porto_alegre"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Porto Alegre" />
+
+            <item
+                android:id="@+id/nav_teresina"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Teresina" />
+
+        </menu>
+    </item>
+    <item android:title="Argentina">
+        <menu>
+            <item
+                android:id="@+id/nav_buenos_aires"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Buenos Aires" />
+            </menu>
+    </item>
+
+
+</menu>
