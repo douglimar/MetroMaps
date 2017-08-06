@@ -21,6 +21,7 @@ public class ResultActivity extends AppCompatActivity {
 
     private InterstitialAd mInterstitialAd;
 
+    String showAdv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +31,10 @@ public class ResultActivity extends AppCompatActivity {
         Intent intent = getIntent();
 
         int message = Integer.parseInt(intent.getStringExtra(MainActivity.EXTRA_MESSAGE));
+
+        showAdv = intent.getStringExtra(MainActivity.EXTRA_MESSAGE2);
+
+        Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
 
         PhotoView photoView2 = (PhotoView) findViewById(R.id.photo_view2);
 
@@ -67,7 +72,9 @@ public class ResultActivity extends AppCompatActivity {
             //Intent intent = new Intent(this, AdmobActivity.class);
             //startActivity(intent);
 
-            showInterstitial();
+            if (showAdv.equals("SHOW_ADV"))
+               showInterstitial();
+
             finish(); // close this activity and return to preview activity (if there is any)
         }
 

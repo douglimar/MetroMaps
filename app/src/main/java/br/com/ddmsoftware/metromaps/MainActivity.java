@@ -37,8 +37,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     // Cria uma variavel para fazer o transporte de valores entre intents
     public static final String EXTRA_MESSAGE = new String ("br.com.ddmsoftware.metromaps.MESSAGE");
+    public static final String EXTRA_MESSAGE2 = new String ("br.com.ddmsoftware.metromaps.MESSAGE2");
 
     int iMessage;
+
+    int iCountAdvertisement = 0;
 
 
 
@@ -173,10 +176,22 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
         }
 
-        String extra = String.valueOf(EXTRA_MESSAGE);
+        iCountAdvertisement++;
+
+        String ShowAdv ;
+
+        if (iCountAdvertisement >=3) {
+
+            ShowAdv = "SHOW_ADV";
+            iCountAdvertisement =0;
+
+        }
+        else
+            ShowAdv = "NO_SHOW";
 
         Intent intent = new Intent(this, ResultActivity.class);
         intent.putExtra(EXTRA_MESSAGE, String.valueOf(iMessage));
+        intent.putExtra(EXTRA_MESSAGE2, ShowAdv);
         startActivity(intent);
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

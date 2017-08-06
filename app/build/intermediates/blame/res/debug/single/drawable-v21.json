@@ -1,142 +1,282 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo3.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo3.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia2.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia2.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia2.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_brasilia2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_brasilia2.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle3.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle3.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle3.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle3.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_rio_janeiro.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_rio_janeiro.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_salvador.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_salvador.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_joaopessoa.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_joaopessoa.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_rio_janeiro.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_rio_janeiro.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo4.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo4.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_natal.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_natal.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_salvador.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_salvador.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_send.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_joaopessoa.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_joaopessoa.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_rio_janeiro.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_rio_janeiro.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_buenos_aires.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_buenos_aires.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo5.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo5.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_recife.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_recife.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_salvador.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_salvador.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle2.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle2.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo_wo_subtitle2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo_wo_subtitle2.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia3.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia3.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_joaopessoa.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_joaopessoa.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_belohorizonte.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_belohorizonte.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_belohorizonte.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_belohorizonte.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_natal.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_natal.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_brasilia3.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_brasilia3.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_belohorizonte.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_belohorizonte.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_teresina.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_teresina.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_natal.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_natal.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo5.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo5.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo3.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo3.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_porto_alegre.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_porto_alegre.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_buenos_aires.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_buenos_aires.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_fortaleza.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_fortaleza.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_fortaleza.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_fortaleza.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo_wo_subtitle3.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo_wo_subtitle3.jpg"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo2.jpg",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo2.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo3.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo3.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo2.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo4.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo4.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_porto_alegre.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_porto_alegre.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_fortaleza.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_fortaleza.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_buenos_aires.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_buenos_aires.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_recife.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_recife.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo4.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo4.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo_wo_subtitle2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo_wo_subtitle2.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_brasilia3.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_brasilia3.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_recife.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_recife.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_sao_paulo_wo_subtitle.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_sao_paulo_wo_subtitle.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_teresina.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_teresina.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/douglimar/.android/build-cache/38318183c8f24f92c995f8a8ef510fb57831ba94/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_teresina.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_teresina.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo5.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo5.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_porto_alegre.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_porto_alegre.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/drawable-v21/mapa_brasilia.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/res/drawable-v21/mapa_brasilia.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sao_paulo2.jpg",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sao_paulo2.jpg"
     }
 ]
