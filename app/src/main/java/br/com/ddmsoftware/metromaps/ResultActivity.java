@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.CheckBox;
 import android.widget.Toast;
 
 import com.github.chrisbanes.photoview.PhotoView;
@@ -21,7 +22,10 @@ public class ResultActivity extends AppCompatActivity {
 
     private InterstitialAd mInterstitialAd;
 
+    DatabaseController CRUD;
+
     String showAdv;
+    CheckBox chk_DefaultMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,15 +34,47 @@ public class ResultActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        int message = Integer.parseInt(intent.getStringExtra(MainActivity.EXTRA_MESSAGE));
-
+        final int message = Integer.parseInt(intent.getStringExtra(MainActivity.EXTRA_MESSAGE));
         showAdv = intent.getStringExtra(MainActivity.EXTRA_MESSAGE2);
+        String mapName = intent.getStringExtra(MainActivity.EXTRA_MESSAGE3);
+
+        chk_DefaultMap = (CheckBox)findViewById(R.id.chk_defaultmap);
 
         Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
 
         PhotoView photoView2 = (PhotoView) findViewById(R.id.photo_view2);
-
         photoView2.setImageResource(message);
+
+        this.setTitle(mapName);
+
+        chk_DefaultMap.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                CRUD = new DatabaseController(ResultActivity.this);
+
+                if (chk_DefaultMap.isChecked()) {
+
+                    //CRUD.deleteData2();
+
+                    CRUD.deleteData2();
+
+
+                    String resultado = CRUD.insertData(Integer.toString(message));
+                    Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
+
+                } else {
+
+                    String resultado = CRUD.insertData("");
+                    //resulta = CRUD.deleteData();
+                    //CRUD.deleteData2();
+                    //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
+
+                }
+            }
+        });
+
+
 
 
 
