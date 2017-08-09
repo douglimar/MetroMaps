@@ -1,11 +1,27 @@
 [
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\metrologo.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\metrologo.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
@@ -14,22 +30,6 @@
     {
         "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\metrologo.png",
         "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\metrologo.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\metrologo.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\metrologo.png"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\metrologo.png",

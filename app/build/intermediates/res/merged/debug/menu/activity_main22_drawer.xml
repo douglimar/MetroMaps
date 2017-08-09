@@ -70,8 +70,51 @@
                 android:id="@+id/nav_buenos_aires"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Buenos Aires" />
-            </menu>
+        </menu>
+    </item>
+    <item android:title="Africa do Sul">
+        <menu>
+            <item
+                android:id="@+id/nav_capeTown"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Cidade do Cabo" />
+            <item
+                android:id="@+id/nav_durban"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Durban" />
+            <item
+                android:id="@+id/nav_johanesburg"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Johannesburg / Pretoria" />
+            <item
+                android:id="@+id/nav_eastlondon"
+                android:icon="@drawable/ic_menu_send"
+                android:title="East London / Port Elisabeth" />
+        </menu>
     </item>
 
-
+    <item android:title="Egito">
+        <menu>
+            <item
+                android:id="@+id/nav_cairo"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Cairo" />
+        </menu>
+    </item>
+    <item android:title="Tunisia">
+        <menu>
+            <item
+                android:id="@+id/nav_tunis"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Tunis" />
+        </menu>
+    </item>
+    <item android:title="Misc">
+        <menu>
+            <item
+                android:id="@+id/nav_sair"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Sair" />
+        </menu>
+    </item>
 </menu>

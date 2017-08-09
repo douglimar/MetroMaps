@@ -100,47 +100,4 @@ public class DatabaseController {
 
     }
 
-    public List<MapsModel> loadPetDataInList() {
-
-        List<MapsModel> modelList = new ArrayList<MapsModel>();
-        Cursor resultSet;
-
-        byte[] fotoArray;
-
-        // Define os campos que serão retornados na consulta
-        String[] fields = {database.MAPS_ID};
-
-        // Abre o Banco de Dados no formato Read-Only
-        db = database.getReadableDatabase();
-
-        // Faz a Consulta no Banco -- Modo Query
-        resultSet = db.query(database.MAPS_TABLE, fields, null,null, null, null, null);
-
-
-        // Faz a Consulta no Banco -- Modo rawQery -- ANSI-SQL
-        //resultSet = db.rawQuery("SELECT * FROM PET_TABLE",null);
-        int iCount = resultSet.getCount();
-        Log.e("TESTE DE LOG:", String.valueOf(iCount));
-
-
-        if (resultSet!=null) {
-            resultSet.moveToFirst();
-
-            do {
-
-                Log.e("Teste...:::::", resultSet.getString(0));
-
-                MapsModel model = new MapsModel();
-                model.setMaps_id(resultSet.getString(0));
-
-                modelList.add(model);
-            }while (resultSet.moveToNext());
-
-        }
-
-        db.close();
-        return modelList;
-    }
-
-
 }

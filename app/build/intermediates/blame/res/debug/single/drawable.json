@@ -1,11 +1,7 @@
 [
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
@@ -16,40 +12,28 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -60,16 +44,40 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu2.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu2.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -80,28 +88,24 @@
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper2.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu.png",
@@ -112,108 +116,156 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper2.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper2.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu2.png",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu2.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar_gray.xml",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar_gray.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -228,184 +280,176 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper2.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper2.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu2.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu2.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu2.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu2.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu2.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu2.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tunis_map.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\tunis_map.jpg"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -420,48 +464,44 @@
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar_gray.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar_gray.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_maceio.jpg",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\mapa_maceio.jpg"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -472,8 +512,8 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\durban_map.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\durban_map.jpg"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
@@ -484,124 +524,112 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\background.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundmenu3.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\backgroundmenu3.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper3.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper3.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_maceio.jpg",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\mapa_maceio.jpg"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper2.png",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper2.png"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -624,156 +652,156 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eastlondon_map.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\eastlondon_map.jpg"
     },
     {
         "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\background.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_maceio.jpg",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\mapa_maceio.jpg"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cairo_map2.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\cairo_map2.png"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar_gray.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar_gray.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar_gray.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar_gray.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper2.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\wallpaper2.png"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_maceio.jpg",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\mapa_maceio.jpg"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_maceio.jpg",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\mapa_maceio.jpg"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\f643f565bb50866043015ee77c4b5e651a975cb8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar_gray.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\side_nav_bar_gray.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brasil_flag.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\brasil_flag.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -784,11 +812,11 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\johannesburg_pretoria_map.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable\\johannesburg_pretoria_map.jpg"
     }
 ]

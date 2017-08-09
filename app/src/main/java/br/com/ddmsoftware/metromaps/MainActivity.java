@@ -1,13 +1,10 @@
 package br.com.ddmsoftware.metromaps;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
-import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -17,29 +14,18 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.CheckBox;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
-import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     // Cria uma variavel para fazer o transporte de valores entre intents
-    public static final String EXTRA_MESSAGE = new String ("br.com.ddmsoftware.metromaps.MESSAGE");
-    public static final String EXTRA_MESSAGE2 = new String ("br.com.ddmsoftware.metromaps.MESSAGE2");
-    public static final String EXTRA_MESSAGE3 = new String ("br.com.ddmsoftware.metromaps.MESSAGE3");
+    public static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
+    public static final String EXTRA_MESSAGE2 = "br.com.ddmsoftware.metromaps.MESSAGE2";
+    public static final String EXTRA_MESSAGE3 = "br.com.ddmsoftware.metromaps.MESSAGE3";
 
     int iMessage;
     int iCountAdvertisement = 0;
@@ -180,6 +166,30 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_salvador:
                 iMessage = R.drawable.mapa_salvador;
                 break;
+            case R.id.nav_capeTown:
+                iMessage = R.drawable.capetown_map;
+                break;
+
+            case R.id.nav_johanesburg:
+                iMessage = R.drawable.johannesburg_pretoria_map;
+                break;
+
+            case R.id.nav_durban:
+                iMessage = R.drawable.durban_map;
+                break;
+            case R.id.nav_eastlondon:
+                iMessage = R.drawable.eastlondon_map;
+                break;
+
+            case R.id.nav_cairo:
+                iMessage = R.drawable.cairo_map2;
+                break;
+            case R.id.nav_tunis:
+                iMessage = R.drawable.tunis_map;
+                break;
+            case R.id.nav_sair:
+                System.exit(0);
+                break;
         }
 
         iCountAdvertisement++;
@@ -187,10 +197,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         String ShowAdv ;
 
         if (iCountAdvertisement >=3) {
-
             ShowAdv = "SHOW_ADV";
             iCountAdvertisement =0;
-
         }
         else
             ShowAdv = "NO_SHOW";
@@ -206,91 +214,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         return true;
     }
 
-    private void writeToFile(String data,Context context) {
-        try {
-            OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput("config.txt", Context.MODE_PRIVATE));
-            outputStreamWriter.write(data);
-            outputStreamWriter.close();
-        }
-        catch (IOException e) {
-            Log.e("Exception", "File write failed: " + e.toString());
-        }
-    }
-
-    private void writeToFile(int data,Context context) {
-        try {
-            OutputStreamWriter outputStreamWriter = new OutputStreamWriter(context.openFileOutput("config.txt", Context.MODE_PRIVATE));
-            outputStreamWriter.write(data);
-            outputStreamWriter.close();
-        }
-        catch (IOException e) {
-            Log.e("Exception", "File write failed: " + e.toString());
-        }
-    }
-
-
-    private String readFromFile(Context context) {
-
-        String ret = "";
-
-        try {
-            InputStream inputStream = context.openFileInput("config.txt");
-
-            if ( inputStream != null ) {
-                InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-                BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-                String receiveString = "";
-                StringBuilder stringBuilder = new StringBuilder();
-
-                while ( (receiveString = bufferedReader.readLine()) != null ) {
-                    stringBuilder.append(receiveString);
-                }
-
-                inputStream.close();
-                ret = stringBuilder.toString();
-            }
-        }
-        catch (FileNotFoundException e) {
-            Log.e("login activity", "File not found: " + e.toString());
-        } catch (IOException e) {
-            Log.e("login activity", "Can not read file: " + e.toString());
-        }
-
-        return ret;
-    }
-
-    private int readIntFromFile(Context context) {
-
-        int ret = 0;
-
-        try {
-            InputStream inputStream = context.openFileInput("config.txt");
-
-            if ( inputStream != null ) {
-                InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-                BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-                String receiveString = "";
-                StringBuilder stringBuilder = new StringBuilder();
-
-                while ( (receiveString = bufferedReader.readLine()) != null ) {
-                    stringBuilder.append(receiveString);
-                }
-
-                inputStream.close();
-                ret = Integer.parseInt(stringBuilder.toString());
-            }
-        }
-        catch (FileNotFoundException e) {
-            Log.e("login activity", "File not found: " + e.toString());
-        } catch (IOException e) {
-            Log.e("login activity", "Can not read file: " + e.toString());
-        }
-
-        return ret;
-    }
-
     private void checkDefaultMap() {
-
 
         final Cursor resultSet = CRUD.loadData();
 

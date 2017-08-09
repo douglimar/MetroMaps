@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 440
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 552
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 658
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 857
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 986
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1142
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1229
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1339
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1455
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1562
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1672
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1778
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2019
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2124
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2235
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -391,7 +391,7 @@
                     "endOffset": 2426
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -410,7 +410,7 @@
                     "endOffset": 2556
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -429,7 +429,7 @@
                     "endOffset": 2669
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -448,7 +448,7 @@
                     "endOffset": 2865
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -467,7 +467,7 @@
                     "endOffset": 2989
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -486,7 +486,7 @@
                     "endOffset": 3122
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -505,7 +505,7 @@
                     "endOffset": 3333
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\d1e78a6e62e76c287b4469d75dac32dc9df5af66\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\43f9ad4f5548378ac9921025f917b7b5b95d128a\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -524,7 +524,7 @@
                     "endOffset": 3537
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -543,7 +543,7 @@
                     "endOffset": 3648
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -562,7 +562,7 @@
                     "endOffset": 3835
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -581,7 +581,7 @@
                     "endOffset": 3965
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -600,7 +600,7 @@
                     "endOffset": 4158
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -619,7 +619,7 @@
                     "endOffset": 4337
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -638,7 +638,7 @@
                     "endOffset": 4427
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -657,7 +657,7 @@
                     "endOffset": 4523
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -676,7 +676,7 @@
                     "endOffset": 4641
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -695,7 +695,7 @@
                     "endOffset": 4720
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -714,7 +714,7 @@
                     "endOffset": 4841
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -733,7 +733,7 @@
                     "endOffset": 4913
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -752,7 +752,7 @@
                     "endOffset": 4992
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -771,7 +771,7 @@
                     "endOffset": 5082
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -790,7 +790,7 @@
                     "endOffset": 5202
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -809,7 +809,7 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 5393
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1682,7 +1682,7 @@
         ]
     },
     {
-        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
         "map": [
             {
                 "to": {
@@ -1693,7 +1693,7 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1712,7 +1712,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1731,7 +1731,7 @@
                     "endOffset": 440
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1750,7 +1750,7 @@
                     "endOffset": 552
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1769,7 +1769,7 @@
                     "endOffset": 658
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1788,7 +1788,7 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1807,7 +1807,7 @@
                     "endOffset": 857
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1826,7 +1826,7 @@
                     "endOffset": 986
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1845,7 +1845,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1864,7 +1864,7 @@
                     "endOffset": 1142
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1883,7 +1883,7 @@
                     "endOffset": 1229
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1902,7 +1902,7 @@
                     "endOffset": 1339
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1921,7 +1921,7 @@
                     "endOffset": 1455
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1940,7 +1940,7 @@
                     "endOffset": 1562
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1959,7 +1959,7 @@
                     "endOffset": 1672
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1978,7 +1978,7 @@
                     "endOffset": 1778
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1997,7 +1997,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2016,7 +2016,7 @@
                     "endOffset": 2019
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2035,7 +2035,7 @@
                     "endOffset": 2124
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2054,7 +2054,7 @@
                     "endOffset": 2235
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -2073,7 +2073,7 @@
                     "endOffset": 2426
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -2092,7 +2092,7 @@
                     "endOffset": 2556
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -2111,7 +2111,7 @@
                     "endOffset": 2669
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -2130,7 +2130,7 @@
                     "endOffset": 2865
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -2149,7 +2149,7 @@
                     "endOffset": 2989
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -2168,7 +2168,7 @@
                     "endOffset": 3122
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -2187,7 +2187,7 @@
                     "endOffset": 3333
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\43f9ad4f5548378ac9921025f917b7b5b95d128a\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\d1e78a6e62e76c287b4469d75dac32dc9df5af66\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -2206,7 +2206,7 @@
                     "endOffset": 3537
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -2225,7 +2225,7 @@
                     "endOffset": 3648
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -2244,7 +2244,7 @@
                     "endOffset": 3835
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -2263,7 +2263,7 @@
                     "endOffset": 3965
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -2282,7 +2282,7 @@
                     "endOffset": 4158
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -2301,7 +2301,7 @@
                     "endOffset": 4337
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -2320,7 +2320,7 @@
                     "endOffset": 4427
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -2339,7 +2339,7 @@
                     "endOffset": 4523
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -2358,7 +2358,7 @@
                     "endOffset": 4641
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\153deb94f6e392b6e36e67976655125c7d8a1e70\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\9bfcb0ef904c0dd3a0c526a0f0d690c979f90d0b\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -2377,7 +2377,7 @@
                     "endOffset": 4720
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -2396,7 +2396,7 @@
                     "endOffset": 4841
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -2415,7 +2415,7 @@
                     "endOffset": 4913
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -2434,7 +2434,7 @@
                     "endOffset": 4992
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -2453,7 +2453,7 @@
                     "endOffset": 5082
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -2472,7 +2472,7 @@
                     "endOffset": 5202
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\473bcbc62efa9e8102b46504665f2350b6d0fb6e\\output\\res\\values-bn\\values.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\483810f685876c9a71f860f5857308b92b34c499\\output\\res\\values-bn\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -2491,7 +2491,7 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2510,7 +2510,7 @@
                     "endOffset": 5393
                 },
                 "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-bn\\values-bn.xml",
+                    "file": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-bn\\values-bn.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
