@@ -133,6 +133,21 @@
         </menu>
 
     </item>
+
+    <item android:title="Mexico">
+        <menu>
+            <item android:title="Cidade do Mexico"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_cidade_mexico"/>
+            <item android:title="Monterrey"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_monterrey"/>
+            <item android:title="Guadalajara"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_guadalajara"/>
+        </menu>
+
+    </item>
     <item android:title="Misc">
         <menu>
             <item
