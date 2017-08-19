@@ -187,6 +187,26 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_tunis:
                 iMessage = R.drawable.tunis_map;
                 break;
+            case R.id.nav_calgary:
+                iMessage = R.drawable.calgary_metromap;
+                break;
+            case R.id.nav_edmonton:
+                iMessage = R.drawable.edmonton_metromap;
+                break;
+            case R.id.nav_montreal:
+                iMessage = R.drawable.montreal_metromap;
+                break;
+            case R.id.nav_ottawa:
+                iMessage = R.drawable.ottawa_metromap;
+                break;
+            case R.id.nav_toronto:
+                iMessage = R.drawable.toronto_metromap;
+                break;
+            case R.id.nav_vancouver:
+                iMessage = R.drawable.vancouver_metromap;
+                break;
+
+
             case R.id.nav_sair:
                 System.exit(0);
                 break;

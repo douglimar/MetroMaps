@@ -109,6 +109,30 @@
                 android:title="Tunis" />
         </menu>
     </item>
+
+    <item android:title="Canada">
+        <menu>
+            <item android:title="Calgary"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_calgary"/>
+            <item android:title="Edmonton"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_edmonton"/>
+            <item android:title="Montreal"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_montreal"/>
+            <item android:title="Ottawa"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_ottawa"/>
+            <item android:title="Toronto"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_toronto"/>
+            <item android:title="Vancouver"
+                android:icon="@drawable/ic_menu_send"
+                android:id="@+id/nav_vancouver"/>
+        </menu>
+
+    </item>
     <item android:title="Misc">
         <menu>
             <item
