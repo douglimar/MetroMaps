@@ -57,11 +57,11 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/douglimar/.
 	android:supportsRtl
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:16:9-44
 	android:allowBackup
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:14:9-39
 	android:theme
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/src/main/AndroidManifest.xml:18:9-40
 activity#br.com.ddmsoftware.metromaps.MainActivity

@@ -1,4 +1,4 @@
-#Sat Aug 19 20:05:42 BRT 2017
+#Sat Sep 30 17:18:29 BRT 2017
 base.0=/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a006295512f5fefead58dd487798f91858c849d4
 renamed.1=classes2.dex
 renamed.0=classes.dex

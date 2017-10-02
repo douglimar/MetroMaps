@@ -28,12 +28,12 @@
         "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
@@ -268,12 +268,12 @@
         "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/home/douglimar/.android/build-cache/f643f565bb50866043015ee77c4b5e651a975cb8/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MetroMaps/C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
