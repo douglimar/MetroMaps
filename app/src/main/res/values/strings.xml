@@ -21,4 +21,16 @@
     <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
     <string name="all_metro_maps_of_the_world">All Metro Maps of the world.</string>
 
+    <string name="tvFirstMessage">Selecione uma região para visualizar os mapas</string>
+
+    <string name="Africa_button">África</string>
+    <string name="America_button">América</string>
+    <string name="NorthAmerica_List">América do Norte</string>
+    <string name="SouthAmerica_List">América do Sul</string>
+    <string name="CentralAmerica_List">América Central</string>
+    <string name="Asia_button">Asia</string>
+    <string name="Europe_button">Europa</string>
+    <string name="Oceania_button">Oceania</string>
+    <string name="Default_button">Mapa Padrão</string>
+
 </resources>

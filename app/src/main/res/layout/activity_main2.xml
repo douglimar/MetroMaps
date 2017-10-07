@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.ddmsoftware.metromaps.Main2Activity">
+
+    <TextView
+        android:id="@+id/tvFirstMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/tvFirstMessage" />
+
+    <Button
+        android:id="@+id/btnAfrica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBlack"
+        android:layout_weight="1"
+        android:textColor="@color/colorWhite"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold"
+        android:text="@string/Africa_button" />
+
+    <Button
+        android:id="@+id/btnAmerica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:layout_weight="1"
+        android:background="@color/colorBlueDark"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold"
+        android:text="@string/America_button" />
+
+    <Button
+        android:id="@+id/btnAsia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:layout_weight="1"
+        android:background="@color/colorBlue"
+        android:textColor="@color/colorWhite"
+        android:text="@string/Asia_button"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnEurope"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:background="@color/colorGreen"
+        android:textColor="@color/colorWhite"
+        android:layout_weight="1"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold"
+        android:text="@string/Europe_button" />
+
+    <Button
+        android:id="@+id/btnOceania"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:background="@color/colorAccent"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold"
+        android:text="@string/Oceania_button" />
+
+    <Button
+        android:id="@+id/btnDefaultMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginBottom="@dimen/btn_margin"
+        android:layout_marginTop="@dimen/btn_margin"
+        android:layout_marginLeft="@dimen/btn_side_margin"
+        android:layout_marginRight="@dimen/btn_side_margin"
+        android:background="@color/colorGray"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/button_font_size"
+        android:textStyle="bold"
+        android:text="@string/Default_button" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
