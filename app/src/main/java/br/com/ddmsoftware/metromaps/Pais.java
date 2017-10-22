@@ -1,12 +1,15 @@
 package br.com.ddmsoftware.metromaps;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by dmoraes on 06/10/2017.
+ *
+ * Pais Model
  */
 
-public class Pais {
+class Pais {
 
     String countryName;
     List<Cidade> cidades;
@@ -27,5 +30,32 @@ public class Pais {
         this.cidades = cidades;
     }
 
+    public List<String> getAllCountries(String continent) {
 
+        List<String> list = new ArrayList<>();
+
+        switch (continent) {
+
+            case "América do Sul": {
+
+                list.add("Argentina");
+                list.add("Brasil");
+                list.add("Chile");
+                list.add("Colômbia");
+                list.add("Peru");
+                list.add("Venezuela");
+                break;
+            }
+
+            case "América": {
+
+                list.add("América do Norte");
+                list.add("América Central");
+                list.add("América do Sul");
+                break;
+            }
+        }
+
+        return list;
+    }
 }

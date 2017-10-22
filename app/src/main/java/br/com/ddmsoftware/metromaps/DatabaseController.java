@@ -4,17 +4,14 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.provider.ContactsContract;
-import android.util.Log;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by dmoraes on 07/08/2017.
+ *
+ * DatabaseControler para acesso à base de dados
  */
 
-public class DatabaseController {
+class DatabaseController {
 
     private CreateDatabase database;
     private SQLiteDatabase db;
@@ -55,7 +52,7 @@ public class DatabaseController {
 
     public String deleteData(String pMaps_id) {
 
-        ContentValues contentValues;
+        //ContentValues contentValues;
 
         long resultado;
 
@@ -82,13 +79,13 @@ public class DatabaseController {
 
         Cursor resultSet;
 
-        String[] fields = {database.MAPS_ID};
+        String[] fields = {CreateDatabase.MAPS_ID};
 
         db = database.getReadableDatabase();
 
-        resultSet = db.query(database.MAPS_TABLE, fields, null,null,null,null,null);
+        resultSet = db.query(CreateDatabase.MAPS_TABLE, fields, null,null,null,null,null);
 
-        // Faz a Consulta no Banco -- Modo rawQery -- ANSI-SQL
+        // Faz a Consulta no Banco -- Modo rawQuery -- ANSI-SQL
         //resultSet = db.rawQuery("SELECT * FROM PET_TABLE",null);
 
         if (resultSet!=null) {

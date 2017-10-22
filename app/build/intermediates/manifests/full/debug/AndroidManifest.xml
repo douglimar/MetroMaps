@@ -21,6 +21,7 @@
 
     <application
         android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@mipmap/iconev2"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/iconev2"

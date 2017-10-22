@@ -8,8 +8,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 class CreateDatabase extends SQLiteOpenHelper {
 
-    public static final String DB_NAME = "maps.db";
-    public static final Integer DB_VERSION = 1;
+    private static final String DB_NAME = "maps.db";
+    private static final Integer DB_VERSION = 1;
 
     //MAPS TABLE
     public static final String MAPS_TABLE = "Maps";

@@ -3,6 +3,7 @@ package br.com.ddmsoftware.metromaps;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.view.View;
@@ -22,18 +23,16 @@ import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-    // Cria uma variavel para fazer o transporte de valores entre intents
+    // Cria uma variável para fazer o transporte de valores entre intents
     public static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     public static final String EXTRA_MESSAGE2 = "br.com.ddmsoftware.metromaps.MESSAGE2";
     public static final String EXTRA_MESSAGE3 = "br.com.ddmsoftware.metromaps.MESSAGE3";
 
-    int iMessage;
-    int iCountAdvertisement = 0;
     String mapName;
 
-    PhotoView photoView;
-
-    DatabaseController CRUD;
+    private PhotoView photoView;
+    private DatabaseController CRUD;
+    private int iMessage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,7 +62,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.setDrawerListener(toggle);
+        drawer.addDrawerListener(toggle);
         toggle.syncState();
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
@@ -118,9 +117,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
-    public boolean onNavigationItemSelected(MenuItem item) {
+    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
+
+        int iCountAdvertisement = 0;
 
         switch (id) {
 
@@ -227,7 +228,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         if (iCountAdvertisement >=3) {
             ShowAdv = "SHOW_ADV";
-            iCountAdvertisement =0;
+            iCountAdvertisement=0;
         }
         else
             ShowAdv = "NO_SHOW";
@@ -251,7 +252,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         Toast.makeText(this.getApplicationContext(), "Tot.Reg:"  + iTotReg, Toast.LENGTH_SHORT ).show();
 
-        if ((resultSet!=null)  && (iTotReg>0)){
+        if (iTotReg>0) {
             resultSet.moveToFirst();
 
             do {

@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 55,
-                        "endOffset": 106
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
@@ -36,30 +12,6 @@
                 },
                 "from": {
                     "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 55,
-                        "endOffset": 106
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -96,6 +48,30 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
@@ -108,6 +84,30 @@
                 },
                 "from": {
                     "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

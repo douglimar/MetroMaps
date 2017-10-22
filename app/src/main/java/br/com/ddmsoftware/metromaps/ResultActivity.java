@@ -1,16 +1,12 @@
 package br.com.ddmsoftware.metromaps;
 
 import android.content.Intent;
-import android.provider.ContactsContract;
-import android.support.v4.app.ShareCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.Toast;
-
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -65,7 +61,7 @@ public class ResultActivity extends AppCompatActivity {
 
                 } else {
 
-                    String resultado = CRUD.insertData("");
+                    CRUD.insertData("");
                     //resulta = CRUD.deleteData();
                     //CRUD.deleteData2();
                     //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
@@ -74,17 +70,11 @@ public class ResultActivity extends AppCompatActivity {
             }
         });
 
-
-
-
-
         // add back arrow to toolbar
         if (getSupportActionBar() != null){
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
-
-
 
         // Create a AdView
         // Load Advertisement Banner
@@ -92,11 +82,9 @@ public class ResultActivity extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
-
         // Create the InterstitialAd and set the adUnitId (defined in values/strings.xml).
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
-
 
     }
 
