@@ -12,9 +12,6 @@ import android.widget.Toast;
 import com.github.chrisbanes.photoview.PhotoView;
 import java.util.List;
 import static br.com.ddmsoftware.metromaps.MainActivity.EXTRA_MESSAGE2;
-import static br.com.ddmsoftware.metromaps.R.color.colorBlueDark;
-import static br.com.ddmsoftware.metromaps.R.color.colorGray;
-import static br.com.ddmsoftware.metromaps.R.color.colorOrange;
 
 public class ListViewActivity extends AppCompatActivity {
 
@@ -43,16 +40,28 @@ public class ListViewActivity extends AppCompatActivity {
 
             case "América": {
                 Pais paises = new Pais();
-                myList = paises.getAllCountries(sTagExtra);
+                myList = paises.getAllCountries(this, sTagExtra);
 //                itemRow.setBackgroundColor(getResources().getColor(colorGray));
-
-
                 break;
             }
             case "América do Sul": {
                 Pais paises = new Pais();
-                myList = paises.getAllCountries(sTagExtra);
+                myList = paises.getAllCountries(this, sTagExtra);
   //              itemRow.setBackgroundColor(getResources().getColor(colorBlueDark));
+                break;
+            }
+
+            case "América do Norte": {
+                Pais paises = new Pais();
+                myList = paises.getAllCountries(this, sTagExtra);
+                //              itemRow.setBackgroundColor(getResources().getColor(colorBlueDark));
+                break;
+            }
+
+            case "América Central": {
+                Pais paises = new Pais();
+                myList = paises.getAllCountries(this, sTagExtra);
+                //              itemRow.setBackgroundColor(getResources().getColor(colorBlueDark));
                 break;
             }
             case "Brasil": {
@@ -63,8 +72,11 @@ public class ListViewActivity extends AppCompatActivity {
             }
         }
 
+        //[itemRow.setBackgroundResource(R.color.colorGray);
+
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myList);
         ListView listView = (ListView) findViewById(R.id.myListView);
+        listView.setBackgroundResource(R.drawable.wallpaper3);
         listView.setAdapter(adapter);
 
 
@@ -120,6 +132,23 @@ public class ListViewActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             }
+
+            case "América do Norte": {
+
+                Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
+                intent.putExtra(EXTRA_MESSAGE, "América do Norte");
+                startActivity(intent);
+                break;
+            }
+
+            case "América Central": {
+
+                Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
+                intent.putExtra(EXTRA_MESSAGE, "América Central");
+                startActivity(intent);
+                break;
+            }
+
 
             case "Brasil": {
 

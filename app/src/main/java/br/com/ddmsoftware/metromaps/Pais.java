@@ -1,5 +1,7 @@
 package br.com.ddmsoftware.metromaps;
 
+import android.content.Context;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,32 +32,51 @@ class Pais {
         this.cidades = cidades;
     }
 
-    public List<String> getAllCountries(String continent) {
+    public List<String> getAllCountries(Context context, String continent) {
+
+        String AMERICA = context.getString(R.string.America_button);
+        String SOUTH_AMERICA = context.getString(R.string.SouthAmerica_List);
+        String NORTH_AMERICA = context.getString(R.string.NorthAmerica_List);
+        String CENTRAL_AMERICA = context.getString(R.string.CentralAmerica_List);
+        String AFRICA = context.getString(R.string.Africa_button);
+        String ASIA = context.getString(R.string.Asia_button);
+        String EUROPE = context.getString(R.string.Europe_button);
+        String OCEANIA = context.getString(R.string.Oceania_button);
+
 
         List<String> list = new ArrayList<>();
 
-        switch (continent) {
+        if (continent.equals(AMERICA)) {
 
-            case "América do Sul": {
+            list.add(context.getString(R.string.NorthAmerica_List));
+            list.add(context.getString(R.string.CentralAmerica_List));
+            list.add(context.getString(R.string.SouthAmerica_List));
 
-                list.add("Argentina");
-                list.add("Brasil");
-                list.add("Chile");
-                list.add("Colômbia");
-                list.add("Peru");
-                list.add("Venezuela");
-                break;
-            }
+        } else
+            if (continent.equals(SOUTH_AMERICA)) {
 
-            case "América": {
+                list.add(context.getString(R.string.argentina));
+                list.add(context.getString(R.string.brazil));
+                list.add(context.getString(R.string.chile));
+                list.add(context.getString(R.string.colombia));
+                list.add(context.getString(R.string.peru));
+                list.add(context.getString(R.string.venezuela));
 
-                list.add("América do Norte");
-                list.add("América Central");
-                list.add("América do Sul");
-                break;
-            }
-        }
+        } else
+            if (continent.equals(NORTH_AMERICA)) {
 
+                list.add(context.getString(R.string.canada));
+                list.add(context.getString(R.string.estados_unidos));
+                list.add(context.getString(R.string.mexico));
+
+            } else
+                if (continent.equals(CENTRAL_AMERICA)) {
+
+                    list.add(context.getString(R.string.panama));
+                    list.add(context.getString(R.string.porto_rico));
+                    list.add(context.getString(R.string.republica_dominicana));
+
+                }
         return list;
     }
 }

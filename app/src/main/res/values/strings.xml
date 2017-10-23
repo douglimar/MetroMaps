@@ -33,7 +33,7 @@
     <string name="Oceania_button">Oceania</string>
     <string name="Default_button">Mapa Padrão</string>
     <string name="NavHeader_ContentDescription">HEADER</string>
-    <string name="brazil">Brazil</string>
+    <string name="brazil">Brasil</string>
     <string name="maceio">Maceió</string>
     <string name="recife">Recife</string>
     <string name="brasilia">Brasilia</string>
@@ -56,7 +56,7 @@
     <string name="egito">Egito</string>
     <string name="tunisia">Tunisia</string>
     <string name="tunis">Tunis</string>
-    <string name="canada">Canada</string>
+    <string name="canada">Canadá</string>
     <string name="calgary">Calgary</string>
     <string name="edmonton">Edmonton</string>
     <string name="montreal">Montreal</string>
@@ -72,5 +72,13 @@
     <string name="argentina">Argentina</string>
     <string name="africa_do_sul">Africa do Sul</string>
     <string name="exibir_na_tela_inicial_mapa_padr_o">Exibir na tela inicial (Mapa Padrão)</string>
+    <string name="chile">Chile</string>
+    <string name="colombia">Colômbia</string>
+    <string name="peru">Peru</string>
+    <string name="venezuela">Venezuela</string>
+    <string name="estados_unidos">Estados Unidos</string>
+    <string name="panama">Panamá</string>
+    <string name="porto_rico">Porto Rico</string>
+    <string name="republica_dominicana">República Dominicana</string>
 
 </resources>

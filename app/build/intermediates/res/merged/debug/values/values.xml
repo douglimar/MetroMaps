@@ -752,15 +752,17 @@
     <string name="belo_horizonte">Belo Horizonte</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="brasilia">Brasilia</string>
-    <string name="brazil">Brazil</string>
+    <string name="brazil">Brasil</string>
     <string name="buenos_aires">Buenos Aires</string>
     <string name="cairo">Cairo</string>
     <string name="calgary">Calgary</string>
-    <string name="canada">Canada</string>
+    <string name="canada">Canadá</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="chile">Chile</string>
     <string name="chkBoxDefaultMap">Definir mapa como padrão (primeira página)</string>
     <string name="cidade_do_cabo">Cidade do Cabo</string>
     <string name="cidade_do_mexico">Cidade do Mexico</string>
+    <string name="colombia">Colômbia</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -782,6 +784,7 @@
     <string name="east_london_port_elisabeth">East London / Port Elisabeth</string>
     <string name="edmonton">Edmonton</string>
     <string name="egito">Egito</string>
+    <string name="estados_unidos">Estados Unidos</string>
     <string name="exibir_na_tela_inicial_mapa_padr_o">Exibir na tela inicial (Mapa Padrão)</string>
     <string name="fortaleza">Fortaleza</string>
     <string name="guadalajara">Guadalajara</string>
@@ -799,13 +802,17 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="next_level">Next Level</string>
     <string name="ottawa">Ottawa</string>
+    <string name="panama">Panamá</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="peru">Peru</string>
     <string name="porto_alegre">Porto Alegre</string>
+    <string name="porto_rico">Porto Rico</string>
     <string name="recife">Recife</string>
+    <string name="republica_dominicana">República Dominicana</string>
     <string name="rio_de_janeiro">Rio de Janeiro</string>
     <string name="s1">Save image</string>
     <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
@@ -828,6 +835,7 @@
     <string name="tunisia">Tunisia</string>
     <string name="tvFirstMessage">Selecione uma região para visualizar os mapas</string>
     <string name="vancouver">Vancouver</string>
+    <string name="venezuela">Venezuela</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
