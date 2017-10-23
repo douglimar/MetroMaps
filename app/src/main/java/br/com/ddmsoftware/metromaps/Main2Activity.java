@@ -33,10 +33,16 @@ public class Main2Activity extends AppCompatActivity {
 
                 String item = adapterView.getItemAtPosition(i).toString();
 
+                Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
+                intent.putExtra(EXTRA_MESSAGE, item);
+                startActivity(intent);
+
+                /*
+
                 switch (item) {
 
                     case "Asia": {
-                        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                        Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
                         startActivity(intent);
                         break;
                     }
@@ -53,16 +59,16 @@ public class Main2Activity extends AppCompatActivity {
                         break;
                     }
                     case "Europa": {
-                        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                        Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
                         startActivity(intent);
                         break;
                     }
                     case "Oceania": {
-                        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                        Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
                         startActivity(intent);
                         break;
                     }
-                }
+                }*/
 
             }
         });

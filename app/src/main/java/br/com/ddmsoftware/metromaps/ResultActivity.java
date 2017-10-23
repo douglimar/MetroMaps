@@ -15,9 +15,7 @@ import com.google.android.gms.ads.InterstitialAd;
 
 public class ResultActivity extends AppCompatActivity {
 
-
     private InterstitialAd mInterstitialAd;
-
     DatabaseController CRUD;
 
     String showAdv;
@@ -51,10 +49,7 @@ public class ResultActivity extends AppCompatActivity {
 
                 if (chk_DefaultMap.isChecked()) {
 
-                    //CRUD.deleteData2();
-
                     CRUD.deleteData2();
-
 
                     String resultado = CRUD.insertData(Integer.toString(message));
                     Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
@@ -65,7 +60,6 @@ public class ResultActivity extends AppCompatActivity {
                     //resulta = CRUD.deleteData();
                     //CRUD.deleteData2();
                     //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
-
                 }
             }
         });

@@ -50,8 +50,8 @@
     <string name="buenos_aires">Buenos Aires</string>
     <string name="cidade_do_cabo">Cidade do Cabo</string>
     <string name="durban">Durban</string>
-    <string name="johannesburg_pretoria">Johannesburg / Pretoria</string>
-    <string name="east_london_port_elisabeth">East London / Port Elisabeth</string>
+    <string name="johannesburg_pretoria">Johannesburgo</string>
+    <string name="east_london_port_elisabeth">East London</string>
     <string name="cairo">Cairo</string>
     <string name="egito">Egito</string>
     <string name="tunisia">Tunisia</string>
@@ -80,5 +80,15 @@
     <string name="panama">Panamá</string>
     <string name="porto_rico">Porto Rico</string>
     <string name="republica_dominicana">República Dominicana</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="santiago">Santiago</string>
+    <string name="valparaiso">Valparaíso</string>
+    <string name="lima">Lima</string>
+    <string name="medelin">Medelin</string>
+    <string name="valencia">Valência</string>
+    <string name="maracaibo">Maracaíbo</string>
+    <string name="caracas">Caracas</string>
+    <string name="santo_domingo">Santo Domingo</string>
+    <string name="san_juan">San Juan</string>
 
 </resources>

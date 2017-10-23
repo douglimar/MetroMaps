@@ -757,6 +757,7 @@
     <string name="cairo">Cairo</string>
     <string name="calgary">Calgary</string>
     <string name="canada">Canadá</string>
+    <string name="caracas">Caracas</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="chile">Chile</string>
     <string name="chkBoxDefaultMap">Definir mapa como padrão (primeira página)</string>
@@ -781,7 +782,7 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="durban">Durban</string>
-    <string name="east_london_port_elisabeth">East London / Port Elisabeth</string>
+    <string name="east_london_port_elisabeth">East London</string>
     <string name="edmonton">Edmonton</string>
     <string name="egito">Egito</string>
     <string name="estados_unidos">Estados Unidos</string>
@@ -791,8 +792,11 @@
     <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
     <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
     <string name="jo_o_pessoa">João Pessoa</string>
-    <string name="johannesburg_pretoria">Johannesburg / Pretoria</string>
+    <string name="johannesburg_pretoria">Johannesburgo</string>
+    <string name="lima">Lima</string>
     <string name="maceio">Maceió</string>
+    <string name="maracaibo">Maracaíbo</string>
+    <string name="medelin">Medelin</string>
     <string name="mexico">Mexico</string>
     <string name="misc">Misc</string>
     <string name="monterrey">Monterrey</string>
@@ -824,6 +828,10 @@
     <string name="s_o_paulo_sem_legenda">São Paulo (sem legenda)</string>
     <string name="sair">Sair</string>
     <string name="salvador">Salvador</string>
+    <string name="san_juan">San Juan</string>
+    <string name="santiago">Santiago</string>
+    <string name="santo_domingo">Santo Domingo</string>
+    <string name="sao_paulo">São Paulo</string>
     <string name="search_menu_title">Search</string>
     <string name="start_level">Level 1</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -834,6 +842,8 @@
     <string name="tunis">Tunis</string>
     <string name="tunisia">Tunisia</string>
     <string name="tvFirstMessage">Selecione uma região para visualizar os mapas</string>
+    <string name="valencia">Valência</string>
+    <string name="valparaiso">Valparaíso</string>
     <string name="vancouver">Vancouver</string>
     <string name="venezuela">Venezuela</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

@@ -43,7 +43,6 @@ class Pais {
         String EUROPE = context.getString(R.string.Europe_button);
         String OCEANIA = context.getString(R.string.Oceania_button);
 
-
         List<String> list = new ArrayList<>();
 
         if (continent.equals(AMERICA)) {
@@ -76,7 +75,14 @@ class Pais {
                     list.add(context.getString(R.string.porto_rico));
                     list.add(context.getString(R.string.republica_dominicana));
 
-                }
+                } else
+                    if (continent.equals(AFRICA)) {
+
+                        list.add(context.getString(R.string.africa_do_sul));
+                        list.add(context.getString(R.string.egito));
+                        list.add(context.getString(R.string.tunisia));
+
+                    }
         return list;
     }
 }

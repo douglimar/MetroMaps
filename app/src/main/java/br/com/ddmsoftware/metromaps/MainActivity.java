@@ -168,52 +168,52 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 iMessage = R.drawable.mapa_salvador;
                 break;
             case R.id.nav_capeTown:
-                iMessage = R.drawable.capetown_map;
+                iMessage = R.drawable.mapa_cidade_do_cabo;
                 break;
 
             case R.id.nav_johanesburg:
-                iMessage = R.drawable.johannesburg_pretoria_map;
+                iMessage = R.drawable.mapa_johannesburgo;
                 break;
 
             case R.id.nav_durban:
-                iMessage = R.drawable.durban_map;
+                iMessage = R.drawable.mapa_durban;
                 break;
             case R.id.nav_eastlondon:
-                iMessage = R.drawable.eastlondon_map;
+                iMessage = R.drawable.mapa_east_london;
                 break;
 
             case R.id.nav_cairo:
-                iMessage = R.drawable.cairo_map2;
+                iMessage = R.drawable.mapa_cairo;
                 break;
             case R.id.nav_tunis:
-                iMessage = R.drawable.tunis_map;
+                iMessage = R.drawable.mapa_tunis;
                 break;
             case R.id.nav_calgary:
-                iMessage = R.drawable.calgary_metromap;
+                iMessage = R.drawable.mapa_calgary;
                 break;
             case R.id.nav_edmonton:
-                iMessage = R.drawable.edmonton_metromap;
+                iMessage = R.drawable.mapa_edmonton;
                 break;
             case R.id.nav_montreal:
-                iMessage = R.drawable.montreal_metromap;
+                iMessage = R.drawable.mapa_montreal;
                 break;
             case R.id.nav_ottawa:
-                iMessage = R.drawable.ottawa_metromap;
+                iMessage = R.drawable.mapa_ottawa;
                 break;
             case R.id.nav_toronto:
-                iMessage = R.drawable.toronto_metromap;
+                iMessage = R.drawable.mapa_toronto;
                 break;
             case R.id.nav_vancouver:
-                iMessage = R.drawable.vancouver_metromap;
+                iMessage = R.drawable.mapa_vancouver;
                 break;
             case R.id.nav_cidade_mexico:
-                iMessage = R.drawable.ciudad_mexico_map;
+                iMessage = R.drawable.mapa_cidade_do_mexico;
                 break;
             case R.id.nav_guadalajara:
-                iMessage = R.drawable.guadalajara_map;
+                iMessage = R.drawable.mapa_guadalajara;
                 break;
             case R.id.nav_monterrey:
-                iMessage = R.drawable.monterrey_map;
+                iMessage = R.drawable.mapa_monterrey;
                 break;
 
 
