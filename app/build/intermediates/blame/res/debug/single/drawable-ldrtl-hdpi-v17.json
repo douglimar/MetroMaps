@@ -1,15 +1,7 @@
 [
     {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
@@ -18,45 +10,5 @@
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\home\\douglimar\\workspace\\AndroidStudioProjects\\MetroMaps\\C:\\home\\douglimar\\.android\\build-cache\\38318183c8f24f92c995f8a8ef510fb57831ba94\\output\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     }
 ]

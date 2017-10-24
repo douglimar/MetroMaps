@@ -2,7 +2,7 @@ package br.com.ddmsoftware.metromaps;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.database.Cursor;
+//import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 /**
@@ -13,8 +13,8 @@ import android.database.sqlite.SQLiteDatabase;
 
 class DatabaseController {
 
-    private CreateDatabase database;
-    private SQLiteDatabase db;
+    private final CreateDatabase database;
+    //private SQLiteDatabase db;
 
     public DatabaseController(Context context) {
 
@@ -23,6 +23,8 @@ class DatabaseController {
 
 
     public String insertData(String pMaps_id) {
+
+        SQLiteDatabase db;
 
         ContentValues contentValues;
 
@@ -50,6 +52,7 @@ class DatabaseController {
 
     }
 
+    /*
     public String deleteData(String pMaps_id) {
 
         //ContentValues contentValues;
@@ -95,6 +98,6 @@ class DatabaseController {
         db.close();
         return resultSet;
 
-    }
+    } */
 
 }

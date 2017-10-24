@@ -16,10 +16,10 @@ import com.google.android.gms.ads.InterstitialAd;
 public class ResultActivity extends AppCompatActivity {
 
     private InterstitialAd mInterstitialAd;
-    DatabaseController CRUD;
+    private DatabaseController CRUD;
 
-    String showAdv;
-    CheckBox chk_DefaultMap;
+    private String showAdv;
+    private CheckBox chk_DefaultMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,9 +28,9 @@ public class ResultActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        final int message = Integer.parseInt(intent.getStringExtra(MainActivity.EXTRA_MESSAGE));
-        showAdv = intent.getStringExtra(MainActivity.EXTRA_MESSAGE2);
-        String mapName = intent.getStringExtra(MainActivity.EXTRA_MESSAGE3);
+        final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
+        showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
+        String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
         chk_DefaultMap = (CheckBox)findViewById(R.id.chk_defaultmap);
 

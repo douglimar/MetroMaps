@@ -12,7 +12,7 @@ import java.util.List;
 
 class Cidade {
 
-    private String cityName;
+    /*private String cityName;
 
     public String getCityName() {
         return cityName;
@@ -28,7 +28,7 @@ class Cidade {
 
     Cidade(){
 
-    }
+    } */
 
 
     public List<String> getAllCities(Context context, String pCountryName) {
@@ -113,6 +113,21 @@ class Cidade {
         } else if (pCountryName.equals(context.getString(R.string.egito))) {
 
             myList.add(context.getString(R.string.cairo));
+
+        } else if (pCountryName.equals(context.getString(R.string.emirados_arabes))) {
+
+            myList.add(context.getString(R.string.dubai));
+
+        }  else if (pCountryName.equals(context.getString(R.string.india))) {
+
+            myList.add(context.getString(R.string.calcuta));
+            myList.add(context.getString(R.string.delhi));
+            myList.add(context.getString(R.string.mumbai));
+
+        } else if (pCountryName.equals(context.getString(R.string.inglaterra))) {
+
+            myList.add(context.getString(R.string.londres));
+            myList.add(context.getString(R.string.manchester));
 
         }
 

@@ -1,5 +1,7 @@
 package br.com.ddmsoftware.metromaps;
 
+import android.content.Context;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,6 +12,7 @@ import java.util.List;
 
 class Continent {
 
+    /*
     private String continentName;
     private List<Pais> paises;
 
@@ -28,17 +31,18 @@ class Continent {
     public void setPaises(List<Pais> paises) {
         this.paises = paises;
     }
+    */
 
 
-    public List<String> getAllContinents(){
+    public List<String> getAllContinents(Context context){
 
         List<String> myContinentList = new ArrayList<>();
 
-        myContinentList.add("Ásia");
-        myContinentList.add("América");
-        myContinentList.add("Europa");
-        myContinentList.add("África");
-        myContinentList.add("Oceania");
+        myContinentList.add(context.getString(R.string.Africa_button));
+        myContinentList.add(context.getString(R.string.America_button));
+        myContinentList.add(context.getString(R.string.Asia_button));
+        myContinentList.add(context.getString(R.string.Europe_button));
+        myContinentList.add(context.getString(R.string.Oceania_button));
 
         return  myContinentList;
 

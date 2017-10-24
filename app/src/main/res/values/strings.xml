@@ -1,14 +1,9 @@
 <resources>
     <string name="app_name">Metro Maps</string>
-    <string name="title_activity_main22">Main22Activity</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
     <string name="banner_ad_unit_id" translatable="false">""</string>
     <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="chkBoxDefaultMap">Definir mapa como padrão (primeira página)</string>
     <string name="title_activity_admob">AdmobActivity</string>
 
     <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
@@ -19,7 +14,6 @@
         For more information, see https://support.google.com/admob/answer/3052638
     <!- -->
     <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="all_metro_maps_of_the_world">All Metro Maps of the world.</string>
 
     <string name="tvFirstMessage">Selecione uma região para visualizar os mapas</string>
 
@@ -32,7 +26,6 @@
     <string name="Europe_button">Europa</string>
     <string name="Oceania_button">Oceania</string>
     <string name="Default_button">Mapa Padrão</string>
-    <string name="NavHeader_ContentDescription">HEADER</string>
     <string name="brazil">Brasil</string>
     <string name="maceio">Maceió</string>
     <string name="recife">Recife</string>
@@ -40,8 +33,6 @@
     <string name="jo_o_pessoa">João Pessoa</string>
     <string name="natal">Natal</string>
     <string name="belo_horizonte">Belo Horizonte</string>
-    <string name="s_o_paulo_com_legenda">São Paulo (com legenda)</string>
-    <string name="s_o_paulo_sem_legenda">São Paulo (sem legenda)</string>
     <string name="rio_de_janeiro">Rio de Janeiro</string>
     <string name="fortaleza">Fortaleza</string>
     <string name="salvador">Salvador</string>
@@ -67,8 +58,6 @@
     <string name="cidade_do_mexico">Cidade do Mexico</string>
     <string name="monterrey">Monterrey</string>
     <string name="guadalajara">Guadalajara</string>
-    <string name="misc">Misc</string>
-    <string name="sair">Sair</string>
     <string name="argentina">Argentina</string>
     <string name="africa_do_sul">Africa do Sul</string>
     <string name="exibir_na_tela_inicial_mapa_padr_o">Exibir na tela inicial (Mapa Padrão)</string>
@@ -90,5 +79,17 @@
     <string name="caracas">Caracas</string>
     <string name="santo_domingo">Santo Domingo</string>
     <string name="san_juan">San Juan</string>
+    <string name="dubai">Dubai</string>
+    <string name="india">Índia</string>
+    <string name="emirados_arabes">Emirados Arábes Unidos</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="delhi">Delhi</string>
+    <string name="calcuta">Calcutá</string>
+    <string name="inglaterra">Inglaterra</string>
+    <string name="espanha">Espanha</string>
+    <string name="australia">Austrália</string>
+    <string name="nova_zelandia">Nova Zelândia</string>
+    <string name="manchester">Manchester</string>
+    <string name="londres">Londres</string>
 
 </resources>

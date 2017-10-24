@@ -13,8 +13,9 @@ import java.util.List;
 
 class Pais {
 
-    String countryName;
-    List<Cidade> cidades;
+    /*
+    private String countryName;
+    private List<Cidade> cidades;
 
     public String getCountryName() {
         return countryName;
@@ -31,7 +32,7 @@ class Pais {
     public void setCidades(List<Cidade> cidades) {
         this.cidades = cidades;
     }
-
+*/
     public List<String> getAllCountries(Context context, String continent) {
 
         String AMERICA = context.getString(R.string.America_button);
@@ -82,7 +83,22 @@ class Pais {
                         list.add(context.getString(R.string.egito));
                         list.add(context.getString(R.string.tunisia));
 
-                    }
+                    } else
+                        if (continent.equals(ASIA)) {
+
+                            list.add(context.getString(R.string.emirados_arabes));
+                            list.add(context.getString(R.string.india));
+                    } else
+                        if (continent.equals(EUROPE)) {
+
+                            list.add(context.getString(R.string.inglaterra));
+                            list.add(context.getString(R.string.espanha));
+                        } else
+                        if (continent.equals(OCEANIA)) {
+
+                            list.add(context.getString(R.string.australia));
+                            list.add(context.getString(R.string.nova_zelandia));
+                        }
         return list;
     }
 }
