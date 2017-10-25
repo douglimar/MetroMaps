@@ -4,12 +4,20 @@
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\96eaf94ac58465ee1b1a59cae69a0148237ff1bf\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_melbourne.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_melbourne.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_medelin.png",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_medelin.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_valencia.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_valencia.jpg"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_calgary.png",
@@ -40,8 +48,20 @@
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_salvador.png"
     },
     {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_roma.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_roma.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_madrid.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_madrid.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
         "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f42d8296dd20005938e16b7b2956dcc647a3fe81\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_helsinki.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_helsinki.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_joaopessoa.jpg",
@@ -56,8 +76,16 @@
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_recife.jpg"
     },
     {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_viena.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_viena.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_cidade_do_cabo.jpg",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_cidade_do_cabo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_sevilha.jpg",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_sevilha.jpg"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
@@ -68,8 +96,16 @@
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_belohorizonte.jpg"
     },
     {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_milan.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_milan.png"
+    },
+    {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_natal.jpg",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_natal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_moscow.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\src\\main\\res\\drawable-v21\\mapa_moscow.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MetroMaps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mapa_teresina.png",

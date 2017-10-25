@@ -183,13 +183,40 @@ public class ListViewActivity extends AppCompatActivity {
         else if (item.equals(context.getString(R.string.cairo))           ) value= R.drawable.mapa_cairo;
             //EMIRADOS ARABES
         else if (item.equals(context.getString(R.string.dubai))           ) value= R.drawable.mapa_dubai;
+        else if (item.equals(context.getString(R.string.abu_dhabi))           ) value= R.drawable.mapa_abu_dhabi;
             //INDIA
         else if (item.equals(context.getString(R.string.calcuta))         ) value= R.drawable.mapa_calcuta;
         else if (item.equals(context.getString(R.string.delhi))           ) value= R.drawable.mapa_delhi;
         else if (item.equals(context.getString(R.string.mumbai))          ) value= R.drawable.mapa_mumbai;
             //ENGLAND
-        else if (item.equals(context.getString(R.string.londres))          ) value= R.drawable.mapa_londres;
-        else if (item.equals(context.getString(R.string.manchester))          ) value= R.drawable.mapa_manchester;
+        else if (item.equals(context.getString(R.string.londres))         ) value= R.drawable.mapa_londres;
+        else if (item.equals(context.getString(R.string.manchester))      ) value= R.drawable.mapa_manchester;
+            //ESPAIN
+        else if (item.equals(context.getString(R.string.barcelona))       ) value= R.drawable.mapa_barcelona;
+        else if (item.equals(context.getString(R.string.madrid))           ) value= R.drawable.mapa_madrid;
+        else if (item.equals(context.getString(R.string.sevilha))         ) value= R.drawable.mapa_sevilha;
+        else if (item.equals(context.getString(R.string.valencia))        ) value= R.drawable.mapa_valencia;
+            //PORTUGAL
+        else if (item.equals(context.getString(R.string.lisboa))          ) value= R.drawable.mapa_lisboa;
+            //HOLANDA
+        else if (item.equals(context.getString(R.string.amsterdam))       ) value= R.drawable.mapa_amsterdam;
+        else if (item.equals(context.getString(R.string.rotterdam))          ) value= R.drawable.mapa_rotterdam;
+            //FRANÇA
+        else if (item.equals(context.getString(R.string.marselha))       ) value= R.drawable.mapa_marselha;
+        else if (item.equals(context.getString(R.string.paris))          ) value= R.drawable.mapa_paris;
+        //AUSTRALIA
+        else if (item.equals(context.getString(R.string.sydney))          ) value= R.drawable.mapa_sydney;
+        else if (item.equals(context.getString(R.string.melbourne))          ) value= R.drawable.mapa_melbourne;
+            //SUICA
+        else if (item.equals(context.getString(R.string.zurich))       ) value= R.drawable.mapa_zurich;
+        else if (item.equals(context.getString(R.string.moscow))       ) value= R.drawable.mapa_moscow;
+        else if (item.equals(context.getString(R.string.kiev))       ) value= R.drawable.mapa_kiev;
+        else if (item.equals(context.getString(R.string.viena))       ) value= R.drawable.mapa_viena;
+        else if (item.equals(context.getString(R.string.copenhague))       ) value= R.drawable.mapa_copenhagen;
+        else if (item.equals(context.getString(R.string.helsinki))       ) value= R.drawable.mapa_helsinki;
+        else if (item.equals(context.getString(R.string.milao))       ) value= R.drawable.mapa_milan;
+        else if (item.equals(context.getString(R.string.roma))       ) value= R.drawable.mapa_roma;
+        else if (item.equals(context.getString(R.string.estocolmo))       ) value= R.drawable.mapa_estocolmo;
 
 
         return value;

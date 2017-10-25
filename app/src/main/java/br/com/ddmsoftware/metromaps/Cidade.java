@@ -117,6 +117,7 @@ class Cidade {
         } else if (pCountryName.equals(context.getString(R.string.emirados_arabes))) {
 
             myList.add(context.getString(R.string.dubai));
+            myList.add(context.getString(R.string.abu_dhabi));
 
         }  else if (pCountryName.equals(context.getString(R.string.india))) {
 
@@ -129,7 +130,71 @@ class Cidade {
             myList.add(context.getString(R.string.londres));
             myList.add(context.getString(R.string.manchester));
 
+        } else if (pCountryName.equals(context.getString(R.string.espanha))) {
+
+            myList.add(context.getString(R.string.barcelona));
+            myList.add(context.getString(R.string.madrid));
+            myList.add(context.getString(R.string.sevilha));
+            myList.add(context.getString(R.string.valencia));
+
+        } else if (pCountryName.equals(context.getString(R.string.portugal))) {
+
+            myList.add(context.getString(R.string.lisboa));
+
+        } else if (pCountryName.equals(context.getString(R.string.portugal))) {
+
+            myList.add(context.getString(R.string.lisboa));
+
+        } else if (pCountryName.equals(context.getString(R.string.holanda))) {
+
+            myList.add(context.getString(R.string.amsterdam));
+            myList.add(context.getString(R.string.rotterdam));
+
+        } else if (pCountryName.equals(context.getString(R.string.franca))) {
+
+            myList.add(context.getString(R.string.marselha));
+            myList.add(context.getString(R.string.paris));
+
+        } else if (pCountryName.equals(context.getString(R.string.australia))) {
+
+            myList.add(context.getString(R.string.melbourne));
+            myList.add(context.getString(R.string.sydney));
+
+        }  else if (pCountryName.equals(context.getString(R.string.suica))) {
+
+            myList.add(context.getString(R.string.zurich));
+
+        }  else if (pCountryName.equals(context.getString(R.string.russia))) {
+
+            myList.add(context.getString(R.string.moscow));
+
+        } else if (pCountryName.equals(context.getString(R.string.ukrania))) {
+
+            myList.add(context.getString(R.string.kiev));
+
+        } else if (pCountryName.equals(context.getString(R.string.alemanha))) {
+
+            myList.add(context.getString(R.string.berlim));
+
+        } else if (pCountryName.equals(context.getString(R.string.austria))) {
+
+            myList.add(context.getString(R.string.viena));
+        } else if (pCountryName.equals(context.getString(R.string.dinamarca))) {
+
+            myList.add(context.getString(R.string.copenhague));
+        } else if (pCountryName.equals(context.getString(R.string.finlandia))) {
+
+            myList.add(context.getString(R.string.helsinki));
+        } else if (pCountryName.equals(context.getString(R.string.italia))) {
+
+            myList.add(context.getString(R.string.milao));
+            myList.add(context.getString(R.string.roma));
+        } else if (pCountryName.equals(context.getString(R.string.suecia))) {
+
+            myList.add(context.getString(R.string.estocolmo));
         }
+
+
 
 
 

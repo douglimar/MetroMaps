@@ -91,13 +91,26 @@ class Pais {
                     } else
                         if (continent.equals(EUROPE)) {
 
-                            list.add(context.getString(R.string.inglaterra));
+                            list.add(context.getString(R.string.alemanha));
+                            list.add(context.getString(R.string.austria));
+                            list.add(context.getString(R.string.dinamarca));
                             list.add(context.getString(R.string.espanha));
+                            list.add(context.getString(R.string.finlandia));
+                            list.add(context.getString(R.string.franca));
+                            list.add(context.getString(R.string.holanda));
+                            list.add(context.getString(R.string.inglaterra));
+                            list.add(context.getString(R.string.italia));
+                            list.add(context.getString(R.string.portugal));
+                            list.add(context.getString(R.string.suecia));
+                            list.add(context.getString(R.string.suica));
+                            list.add(context.getString(R.string.russia));
+                            list.add(context.getString(R.string.ukrania));
+
                         } else
                         if (continent.equals(OCEANIA)) {
 
                             list.add(context.getString(R.string.australia));
-                            list.add(context.getString(R.string.nova_zelandia));
+
                         }
         return list;
     }
