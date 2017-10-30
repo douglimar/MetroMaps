@@ -2,7 +2,7 @@
     <string name="app_name">Metro Maps</string>
 
     <string name="action_settings">Settings</string>
-    <string name="banner_ad_unit_id" translatable="false">""</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-1098336821710456/5953523391</string>
     <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="title_activity_admob">AdmobActivity</string>
 
@@ -13,7 +13,8 @@
         This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
         For more information, see https://support.google.com/admob/answer/3052638
     <!- -->
-    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_unit_id_TESTE">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1098336821710456/5734031546</string>
 
     <string name="tvFirstMessage">Selecione uma região para visualizar os mapas</string>
 
@@ -124,5 +125,41 @@
     <string name="finlandia">Finlândia</string>
     <string name="italia">Itália</string>
     <string name="suecia">Suécia</string>
+    <string name="map_info_message">Use os dedos ou dê dois toques na tela para dar o ZOOM no mapa</string>
+    <string name="auckland">Auckland</string>
+    <string name="washington">Washington</string>
+    <string name="seattle">Seattle</string>
+    <string name="sao_francisco">São Francisco</string>
+    <string name="nova_york">Nova Iorque</string>
+    <string name="miami">Miami</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="las_vegas">Las Vegas</string>
+    <string name="houston">Houston</string>
+    <string name="detroit">Detroit</string>
+    <string name="chicago">Chicago</string>
+    <string name="boston">Boston</string>
+    <string name="baltimore">Baltimore</string>
+    <string name="atlanta">Atlanta</string>
+    <string name="shanghai">Xangai</string>
+    <string name="shenzhen">Shenzhen</string>
+    <string name="beijing">Pequin</string>
+    <string name="guangzhou">Guangzhou</string>
+    <string name="china">China</string>
+    <string name="arabia_saudita">Arábia Saudita</string>
+    <string name="mecca">Mecca</string>
+    <string name="hongkong">Hong Kong</string>
+    <string name="yokohama">Yokohama</string>
+    <string name="tokyo">Tóquio</string>
+    <string name="nagoya">Nagóia</string>
+    <string name="japao">Japão</string>
+    <string name="istambul">Istambul</string>
+    <string name="ankara">Ankara</string>
+    <string name="turquia">Turquia</string>
+    <string name="taipei">Taipei</string>
+    <string name="seoul">Seoul</string>
+    <string name="singapura">Singapura</string>
+    <string name="southkorea">Coreia do Sul</string>
+    <string name="taiwan">Taiwan</string>
+    <string name="cidade_do_panama">Cidade do Panamá</string>
 
 </resources>

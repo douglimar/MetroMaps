@@ -82,7 +82,7 @@ class Cidade {
 
         } else if (pCountryName.equals(context.getString(R.string.panama))) {
 
-            myList.add(context.getString(R.string.panama));
+            myList.add(context.getString(R.string.cidade_do_panama));
 
         } else if (pCountryName.equals(context.getString(R.string.canada))) {
 
@@ -141,10 +141,6 @@ class Cidade {
 
             myList.add(context.getString(R.string.lisboa));
 
-        } else if (pCountryName.equals(context.getString(R.string.portugal))) {
-
-            myList.add(context.getString(R.string.lisboa));
-
         } else if (pCountryName.equals(context.getString(R.string.holanda))) {
 
             myList.add(context.getString(R.string.amsterdam));
@@ -192,12 +188,63 @@ class Cidade {
         } else if (pCountryName.equals(context.getString(R.string.suecia))) {
 
             myList.add(context.getString(R.string.estocolmo));
+
+        } else if (pCountryName.equals(context.getString(R.string.nova_zelandia))) {
+
+            myList.add(context.getString(R.string.auckland));
+        } else if (pCountryName.equals(context.getString(R.string.estados_unidos))){
+
+            myList.add(context.getString(R.string.atlanta));
+            myList.add(context.getString(R.string.baltimore));
+            myList.add(context.getString(R.string.boston));
+            myList.add(context.getString(R.string.chicago));
+            myList.add(context.getString(R.string.detroit));
+            myList.add(context.getString(R.string.houston));
+            myList.add(context.getString(R.string.las_vegas));
+            myList.add(context.getString(R.string.los_angeles));
+            myList.add(context.getString(R.string.miami));
+            myList.add(context.getString(R.string.nova_york));
+            myList.add(context.getString(R.string.sao_francisco));
+            myList.add(context.getString(R.string.seattle));
+            myList.add(context.getString(R.string.washington));
+
+        } else if (pCountryName.equals(context.getString(R.string.china))) {
+
+            myList.add(context.getString(R.string.beijing));
+            myList.add(context.getString(R.string.guangzhou));
+            myList.add(context.getString(R.string.hongkong));
+            myList.add(context.getString(R.string.shanghai));
+            myList.add(context.getString(R.string.shenzhen));
+
+        } else if (pCountryName.equals(context.getString(R.string.arabia_saudita))) {
+
+            myList.add(context.getString(R.string.mecca));
+
+        }  else if (pCountryName.equals(context.getString(R.string.japao))) {
+
+            myList.add(context.getString(R.string.nagoya));
+            myList.add(context.getString(R.string.tokyo));
+            myList.add(context.getString(R.string.yokohama));
+
+        }  else if (pCountryName.equals(context.getString(R.string.turquia))) {
+
+            myList.add(context.getString(R.string.ankara));
+            myList.add(context.getString(R.string.istambul));
+
+        }  else if (pCountryName.equals(context.getString(R.string.southkorea))) {
+
+            myList.add(context.getString(R.string.seoul));
+
+        } else if (pCountryName.equals(context.getString(R.string.singapura))) {
+
+            myList.add(context.getString(R.string.singapura));
+
+        } else if (pCountryName.equals(context.getString(R.string.taiwan))) {
+
+            myList.add(context.getString(R.string.taipei));
+
         }
 
-
-
-
-
-            return myList;
+        return myList;
     }
 }

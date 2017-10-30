@@ -1,12 +1,14 @@
 package br.com.ddmsoftware.metromaps;
 
 import android.content.Intent;
+import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.Toast;
+
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -21,6 +23,8 @@ public class ResultActivity extends AppCompatActivity {
     private String showAdv;
     private CheckBox chk_DefaultMap;
 
+    private PhotoView photoView2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,16 +32,36 @@ public class ResultActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
+        //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
+
+        final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+
         showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
         String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
-        chk_DefaultMap = (CheckBox)findViewById(R.id.chk_defaultmap);
+        chk_DefaultMap = findViewById(R.id.chk_defaultmap);
 
-        Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this.getBaseContext(), R.string.map_info_message, Toast.LENGTH_LONG).show();
 
-        PhotoView photoView2 = (PhotoView) findViewById(R.id.photo_view2);
-        photoView2.setImageResource(message);
+        photoView2 = findViewById(R.id.photo_view2);
+
+        if (!message.equals(getResources().getString(R.string.Default_button)))
+
+            photoView2.setImageResource(Integer.parseInt(message));
+
+            /*
+        if (message != R.string.Default_button)
+            photoView2.setImageResource(message); */
+        else {
+
+            CRUD = new DatabaseController(this);
+            checkDefaultMap();
+        }
+
+
+
+
 
         this.setTitle(mapName);
 
@@ -50,13 +74,14 @@ public class ResultActivity extends AppCompatActivity {
                 if (chk_DefaultMap.isChecked()) {
 
                     CRUD.deleteData2();
+                    CRUD.insertData2(message);
 
-                    String resultado = CRUD.insertData(Integer.toString(message));
-                    Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
+                    //String resultado = CRUD.insertData(message);
+                    //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
 
                 } else {
 
-                    CRUD.insertData("");
+                    CRUD.insertData2("");
                     //resulta = CRUD.deleteData();
                     //CRUD.deleteData2();
                     //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
@@ -72,14 +97,13 @@ public class ResultActivity extends AppCompatActivity {
 
         // Create a AdView
         // Load Advertisement Banner
-        AdView mAdView = (AdView) findViewById(R.id.adView2);
+        AdView mAdView = findViewById(R.id.adView2);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
         // Create the InterstitialAd and set the adUnitId (defined in values/strings.xml).
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
-
     }
 
     @Override
@@ -130,7 +154,7 @@ public class ResultActivity extends AppCompatActivity {
         if (mInterstitialAd != null && mInterstitialAd.isLoaded()) {
             mInterstitialAd.show();
         } else {
-            Toast.makeText(this, "Ad did not load", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(this, "Ad did not load", Toast.LENGTH_SHORT).show();
             goToNextLevel();
         }
     }
@@ -148,5 +172,34 @@ public class ResultActivity extends AppCompatActivity {
         //mLevelTextView.setText("Level " + (++mLevel));
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
+    }
+
+    public void onResume(){
+        super.onResume();
+        //checkDefaultMap();
+    }
+
+
+
+    private void checkDefaultMap() {
+
+        final Cursor resultSet = CRUD.loadData();
+
+        int iTotReg = resultSet.getCount();
+
+        //Toast.makeText(this.getApplicationContext(), "Tot.Reg:"  + iTotReg, Toast.LENGTH_SHORT ).show();
+
+        if (iTotReg>0){
+            resultSet.moveToFirst();
+
+            do {
+
+                if (!resultSet.getString(0).equals(""))
+                    photoView2.setImageResource(resultSet.getInt(0));
+
+            } while (resultSet.moveToNext());
+        }
+
+        resultSet.close();
     }
 }

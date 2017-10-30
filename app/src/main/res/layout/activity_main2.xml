@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     tools:context="br.com.ddmsoftware.metromaps.Main2Activity">
 
@@ -24,5 +25,7 @@
         android:id="@+id/adView3"
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
         android:layout_weight="0.15"/>
 </LinearLayout>

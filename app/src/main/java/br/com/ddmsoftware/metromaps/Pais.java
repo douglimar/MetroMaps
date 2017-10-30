@@ -86,8 +86,16 @@ class Pais {
                     } else
                         if (continent.equals(ASIA)) {
 
+                            list.add(context.getString(R.string.arabia_saudita));
+                            list.add(context.getString(R.string.china));
+                            list.add(context.getString(R.string.southkorea));
                             list.add(context.getString(R.string.emirados_arabes));
                             list.add(context.getString(R.string.india));
+                            list.add(context.getString(R.string.japao));
+                            list.add(context.getString(R.string.singapura));
+                            list.add(context.getString(R.string.taiwan));
+                            list.add(context.getString(R.string.turquia));
+
                     } else
                         if (continent.equals(EUROPE)) {
 
@@ -110,6 +118,7 @@ class Pais {
                         if (continent.equals(OCEANIA)) {
 
                             list.add(context.getString(R.string.australia));
+                            list.add(context.getString(R.string.nova_zelandia));
 
                         }
         return list;

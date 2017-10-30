@@ -43,6 +43,8 @@ class Continent {
         myContinentList.add(context.getString(R.string.Asia_button));
         myContinentList.add(context.getString(R.string.Europe_button));
         myContinentList.add(context.getString(R.string.Oceania_button));
+        myContinentList.add(context.getString(R.string.Default_button));
+
 
         return  myContinentList;
 

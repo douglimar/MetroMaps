@@ -3,6 +3,7 @@ package br.com.ddmsoftware.metromaps;
 import android.content.ContentValues;
 import android.content.Context;
 //import android.database.Cursor;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 /**
@@ -14,7 +15,7 @@ import android.database.sqlite.SQLiteDatabase;
 class DatabaseController {
 
     private final CreateDatabase database;
-    //private SQLiteDatabase db;
+    private SQLiteDatabase db;
 
     public DatabaseController(Context context) {
 
@@ -22,6 +23,21 @@ class DatabaseController {
     }
 
 
+    public void insertData2(String pMaps_id) {
+
+        SQLiteDatabase db;
+
+        ContentValues contentValues;
+
+        db = database.getWritableDatabase();
+
+        contentValues = new ContentValues();
+        contentValues.put(CreateDatabase.MAPS_ID, pMaps_id);
+
+        db.insert(CreateDatabase.MAPS_TABLE,null, contentValues);
+    }
+
+    /*
     public String insertData(String pMaps_id) {
 
         SQLiteDatabase db;
@@ -43,7 +59,7 @@ class DatabaseController {
             return "Registro inserido com sucesso.";
 
     }
-
+*/
     public void deleteData2() {
 
         SQLiteDatabase db = database.getWritableDatabase();
@@ -76,7 +92,7 @@ class DatabaseController {
         else
             return "Registro excluido com sucesso.";
 
-    }
+    } */
 
     public Cursor loadData() {
 
@@ -98,6 +114,5 @@ class DatabaseController {
         db.close();
         return resultSet;
 
-    } */
-
+    }
 }

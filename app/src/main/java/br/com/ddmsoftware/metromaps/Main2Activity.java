@@ -12,10 +12,9 @@ import java.util.List;
 
 public class Main2Activity extends AppCompatActivity {
 
-    public static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
+    public static final String EXTRA_MESSAGE  = "br.com.ddmsoftware.metromaps.MESSAGE";
     public static final String EXTRA_MESSAGE2 = "br.com.ddmsoftware.metromaps.MESSAGE2";
     public static final String EXTRA_MESSAGE3 = "br.com.ddmsoftware.metromaps.MESSAGE3";
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,19 +25,35 @@ public class Main2Activity extends AppCompatActivity {
         List<String> myContinentList = continents.getAllContinents(this);
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myContinentList);
-        ListView listView = (ListView) findViewById(R.id.lstContinents);
+        ListView listView = findViewById(R.id.lstContinents);
         listView.setAdapter(adapter);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
-                String item = adapterView.getItemAtPosition(i).toString();
+                Intent intent;
 
-                Intent intent = new Intent(getApplicationContext(), ListViewActivity.class);
-                intent.putExtra(EXTRA_MESSAGE, item);
+                String item = adapterView.getItemAtPosition(i).toString();
+                String default_button = getResources().getString(R.string.Default_button);
+
+                //Toast.makeText(getApplicationContext(), "ITEM:" + item + " | DEFAULT_BUTTON: " + default_button, Toast.LENGTH_LONG ).show();
+
+                if (item.equals(default_button)) {
+
+                    intent = new Intent(getApplicationContext(), ResultActivity.class);
+
+                    intent.putExtra(EXTRA_MESSAGE, item);
+                    intent.putExtra(EXTRA_MESSAGE2, "");
+
+                } else {
+
+                    intent = new Intent(getApplicationContext(), ListViewActivity.class);
+                    intent.putExtra(EXTRA_MESSAGE, item);
+                }
                 startActivity(intent);
             }
         });
     }
+
 }
