@@ -97,7 +97,7 @@ public class ResultActivity extends AppCompatActivity {
 
         // Create a AdView
         // Load Advertisement Banner
-        AdView mAdView = findViewById(R.id.adView2);
+        AdView mAdView = findViewById(R.id.adViewResult);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 

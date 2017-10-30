@@ -10,7 +10,11 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.Toast;
 //import android.widget.Toast;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
 import java.util.List;
 import java.util.Random;
@@ -84,6 +88,13 @@ public class ListViewActivity extends AppCompatActivity {
         linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
         listView.setAdapter(adapter);
 
+
+        // Create a AdView
+        // Load Advertisement Banner
+        AdView mAdView = findViewById(R.id.adViewListView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -122,11 +133,14 @@ public class ListViewActivity extends AppCompatActivity {
 
                 iMessage = getImageMapID(this, item);
                 iCountAdvertisement++;
-                String ShowAdv;
+                String ShowAdv = "";
+
+                //Toast.makeText(getApplicationContext(), "Show Adv: " + ShowAdv + " | " + iCountAdvertisement, Toast.LENGTH_SHORT).show();
 
                 if (iCountAdvertisement >=3) {
                     ShowAdv = "SHOW_ADV";
                     iCountAdvertisement =0;
+                    //Toast.makeText(getApplicationContext(), "Show Adv: " + ShowAdv + " | " + iCountAdvertisement, Toast.LENGTH_SHORT).show();
                 }
                 else
                     ShowAdv = "NO_SHOW";

@@ -27,7 +27,7 @@
         android:layout_weight="1"/>
 
     <com.google.android.gms.ads.AdView
-        android:id="@+id/adView3"
+        android:id="@+id/adViewListView"
         android:layout_width="match_parent"
         ads:adSize="BANNER"
         ads:adUnitId="@string/banner_ad_unit_id"

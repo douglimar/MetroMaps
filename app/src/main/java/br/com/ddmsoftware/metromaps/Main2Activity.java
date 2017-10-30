@@ -8,6 +8,9 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import java.util.List;
 
 public class Main2Activity extends AppCompatActivity {
@@ -27,6 +30,12 @@ public class Main2Activity extends AppCompatActivity {
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myContinentList);
         ListView listView = findViewById(R.id.lstContinents);
         listView.setAdapter(adapter);
+
+        // Create a AdView
+        // Load Advertisement Banner
+        AdView mAdView = findViewById(R.id.adViewMain);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
