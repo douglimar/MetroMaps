@@ -105,7 +105,7 @@ class DatabaseController {
         resultSet = db.query(CreateDatabase.MAPS_TABLE, fields, null,null,null,null,null);
 
         // Faz a Consulta no Banco -- Modo rawQuery -- ANSI-SQL
-        //resultSet = db.rawQuery("SELECT * FROM PET_TABLE",null);
+        //resultSet = db.rawQuery("SELECT * FROM MAPS_TABLE",null);
 
         if (resultSet!=null) {
             resultSet.moveToLast();

@@ -15,24 +15,24 @@ public final class R {
     public static final class id {
         public static final int auto = 0x7f080024;
         public static final int center = 0x7f08002b;
-        public static final int none = 0x7f08006d;
-        public static final int normal = 0x7f08006e;
-        public static final int radio = 0x7f08007b;
-        public static final int text = 0x7f0800a7;
-        public static final int text2 = 0x7f0800a8;
-        public static final int wrap_content = 0x7f0800c3;
+        public static final int none = 0x7f08006e;
+        public static final int normal = 0x7f08006f;
+        public static final int radio = 0x7f08007c;
+        public static final int text = 0x7f0800a8;
+        public static final int text2 = 0x7f0800a9;
+        public static final int wrap_content = 0x7f0800c4;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f090007;
     }
     public static final class string {
         public static final int common_google_play_services_unknown_issue = 0x7f0d004f;
-        public static final int s1 = 0x7f0d009e;
-        public static final int s2 = 0x7f0d009f;
-        public static final int s3 = 0x7f0d00a0;
-        public static final int s4 = 0x7f0d00a1;
-        public static final int s5 = 0x7f0d00a2;
-        public static final int s6 = 0x7f0d00a3;
+        public static final int s1 = 0x7f0d00a6;
+        public static final int s2 = 0x7f0d00a7;
+        public static final int s3 = 0x7f0d00a8;
+        public static final int s4 = 0x7f0d00a9;
+        public static final int s5 = 0x7f0d00aa;
+        public static final int s6 = 0x7f0d00ab;
     }
     public static final class style {
         public static final int Theme_IAPTheme = 0x7f0e012f;

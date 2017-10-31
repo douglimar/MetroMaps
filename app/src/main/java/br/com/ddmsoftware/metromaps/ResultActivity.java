@@ -14,9 +14,11 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 public class ResultActivity extends AppCompatActivity {
 
+    private FirebaseAnalytics mFirebaseAnalytics;
     private InterstitialAd mInterstitialAd;
     private DatabaseController CRUD;
 
@@ -32,12 +34,15 @@ public class ResultActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
+        // Obtain the FirebaseAnalytics instance.
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
         //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
 
         final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
 
         showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
-        String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
+        final String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
         chk_DefaultMap = findViewById(R.id.chk_defaultmap);
 
@@ -59,15 +64,18 @@ public class ResultActivity extends AppCompatActivity {
             checkDefaultMap();
         }
 
-
-
-
-
         this.setTitle(mapName);
 
         chk_DefaultMap.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+
+                Bundle bundle = new Bundle();
+                bundle.putString(FirebaseAnalytics.Param.ITEM_ID,"CheckDefaultMap");
+                bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "CheckDefaultMap");
+                bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+                mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
                 CRUD = new DatabaseController(ResultActivity.this);
 
@@ -194,9 +202,11 @@ public class ResultActivity extends AppCompatActivity {
 
             do {
 
-                if (!resultSet.getString(0).equals(""))
+                if (!resultSet.getString(0).equals("")) {
+                    //photoView2.setImageResource(resultSet.getInt(0));
+                    //photoView2.setImageResource(resultSet.getInt(0));
                     photoView2.setImageResource(resultSet.getInt(0));
-
+                }
             } while (resultSet.moveToNext());
         }
 

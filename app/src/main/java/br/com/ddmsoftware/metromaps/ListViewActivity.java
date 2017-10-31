@@ -10,11 +10,11 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.Toast;
 //import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.List;
 import java.util.Random;
@@ -27,6 +27,8 @@ public class ListViewActivity extends AppCompatActivity {
     //private PhotoView photoView;
     private String sFilter = "";
 
+    private FirebaseAnalytics mFirebaseAnalytics;
+
     private static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     private int iCountAdvertisement = 0;
 
@@ -34,6 +36,9 @@ public class ListViewActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_view);
+
+        // Obtain the FirebaseAnalytics instance.
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         LinearLayout linearLayout = findViewById(R.id.linearLayoutListView);
 
@@ -88,7 +93,6 @@ public class ListViewActivity extends AppCompatActivity {
         linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
         listView.setAdapter(adapter);
 
-
         // Create a AdView
         // Load Advertisement Banner
         AdView mAdView = findViewById(R.id.adViewListView);
@@ -102,6 +106,14 @@ public class ListViewActivity extends AppCompatActivity {
                 String item = adapterView.getItemAtPosition(i).toString();
                 //Toast.makeText(getApplicationContext(),item, Toast.LENGTH_SHORT).show();
                 loadDataFromListClick2(item, sFilter);
+
+                //Firebase Implementation
+                Bundle bundle = new Bundle();
+                bundle.putString(FirebaseAnalytics.Param.ITEM_ID, String.valueOf(i));
+                bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, item);
+                bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+                mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
             }
         });
     }
@@ -133,7 +145,7 @@ public class ListViewActivity extends AppCompatActivity {
 
                 iMessage = getImageMapID(this, item);
                 iCountAdvertisement++;
-                String ShowAdv = "";
+                String ShowAdv;
 
                 //Toast.makeText(getApplicationContext(), "Show Adv: " + ShowAdv + " | " + iCountAdvertisement, Toast.LENGTH_SHORT).show();
 
