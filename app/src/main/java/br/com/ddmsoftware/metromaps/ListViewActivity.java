@@ -32,10 +32,29 @@ public class ListViewActivity extends AppCompatActivity {
     private static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     private int iCountAdvertisement = 0;
 
+    String AMERICA ;
+    String SOUTH_AMERICA ;
+    String NORTH_AMERICA ;
+    String CENTRAL_AMERICA ;
+    String AFRICA ;
+    String ASIA ;
+    String EUROPE;
+    String OCEANIA;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_view);
+
+        AMERICA = this.getString(R.string.America_button);
+        SOUTH_AMERICA = this.getString(R.string.SouthAmerica_List);
+        NORTH_AMERICA = this.getString(R.string.NorthAmerica_List);
+        CENTRAL_AMERICA = this.getString(R.string.CentralAmerica_List);
+        AFRICA = this.getString(R.string.Africa_button);
+        ASIA = this.getString(R.string.Asia_button);
+        EUROPE = this.getString(R.string.Europe_button);
+        OCEANIA = this.getString(R.string.Oceania_button);
 
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
@@ -43,15 +62,6 @@ public class ListViewActivity extends AppCompatActivity {
         LinearLayout linearLayout = findViewById(R.id.linearLayoutListView);
 
         String sTagExtra;
-
-        String AMERICA = this.getString(R.string.America_button);
-        String SOUTH_AMERICA = this.getString(R.string.SouthAmerica_List);
-        String NORTH_AMERICA = this.getString(R.string.NorthAmerica_List);
-        String CENTRAL_AMERICA = this.getString(R.string.CentralAmerica_List);
-        String AFRICA = this.getString(R.string.Africa_button);
-        String ASIA = this.getString(R.string.Asia_button);
-        String EUROPE = this.getString(R.string.Europe_button);
-        String OCEANIA = this.getString(R.string.Oceania_button);
 
         //Help to identify if the User is clicking over a Country / Continent or a Final List (City)
         //If were a Final List, the next screen shall be the Map Screen.
@@ -86,12 +96,27 @@ public class ListViewActivity extends AppCompatActivity {
                 sFilter = aFilter[1]; // CITY
         }
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myList);
-        ListView listView = findViewById(R.id.myListView);
+        ListView listView;
+        ArrayAdapter<String> adapter;
 
+        if (sTagExtra.equals(EUROPE)) {
+            adapter = new ArrayAdapter<>(this, R.layout.item_row, R.id.tvItemRow, myList);
+            listView = findViewById(R.id.myListView2);
+        } else {
+
+            adapter = new ArrayAdapter<>(this, R.layout.item_row, R.id.tvItemRow, myList);
+            listView = findViewById(R.id.myListView);
+        }
         // Set Background color in aleatory mode
-        linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
+        //linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
+
+        linearLayout.setBackgroundResource(getBackground(sTagExtra));
         listView.setAdapter(adapter);
+
+
+        //getBackground(sTagExtra);
+
+
 
         // Create a AdView
         // Load Advertisement Banner
@@ -178,6 +203,32 @@ public class ListViewActivity extends AppCompatActivity {
         return iColors[i];
 
     }
+
+    private int getBackground(String sTagExtra) {
+
+        int retorno = 0;
+        if (sTagExtra.equals(AMERICA)) {
+
+            retorno = R.drawable.south_america_background1;
+        } else if (sTagExtra.equals(NORTH_AMERICA)) {
+            retorno = R.drawable.south_america_background2;
+        } else if (sTagExtra.equals(CENTRAL_AMERICA)) {
+            retorno = R.drawable.south_america_background3;
+
+        } else if (sTagExtra.equals(SOUTH_AMERICA)) {
+            retorno = R.drawable.south_america_background1;
+        } else if (sTagExtra.equals(EUROPE)) {
+        } else if (sTagExtra.equals(ASIA)) {
+
+        } else if (sTagExtra.equals(AFRICA)) {
+        } else if (sTagExtra.equals(OCEANIA))    {
+
+        }
+
+        return retorno;
+
+
+    };
 
 
     private int getImageMapID(Context context, String item) {

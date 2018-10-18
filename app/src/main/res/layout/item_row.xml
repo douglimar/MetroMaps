@@ -16,7 +16,7 @@
         android:layout_marginRight="10sp"
         android:layout_marginTop="@dimen/item_row_margin"
         android:layout_marginBottom="@dimen/item_row_margin"
-        android:background="@color/colorTransparentButton"
+        android:background="@drawable/rounded_button"
         android:textColor="@color/colorWhite"
         android:textSize="@dimen/button_font_size"
         android:textStyle="bold"/>
