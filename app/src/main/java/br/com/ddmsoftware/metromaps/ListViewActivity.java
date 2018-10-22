@@ -94,6 +94,7 @@ public class ListViewActivity extends AppCompatActivity {
                 Cidade cidades = new Cidade();
                 myList = cidades.getAllCities(this, sTagExtra);
                 sFilter = aFilter[1]; // CITY
+
         }
 
         ListView listView;
@@ -101,7 +102,8 @@ public class ListViewActivity extends AppCompatActivity {
 
         if (sTagExtra.equals(EUROPE)) {
             adapter = new ArrayAdapter<>(this, R.layout.item_row, R.id.tvItemRow, myList);
-            listView = findViewById(R.id.myListView2);
+            //listView = findViewById(R.id.myListView2); -- COMENTADO EM 22/10/2018 -- DOUGLIMAR -- PQ INSTANCIEI O MYLISTVIEW2 ???
+            listView = findViewById(R.id.myListView);
         } else {
 
             adapter = new ArrayAdapter<>(this, R.layout.item_row, R.id.tvItemRow, myList);
@@ -209,20 +211,26 @@ public class ListViewActivity extends AppCompatActivity {
         int retorno = 0;
         if (sTagExtra.equals(AMERICA)) {
 
-            retorno = R.drawable.south_america_background1;
+            retorno = R.drawable.bg_americas;
         } else if (sTagExtra.equals(NORTH_AMERICA)) {
-            retorno = R.drawable.south_america_background2;
+            retorno = R.drawable.bg_north_america;
         } else if (sTagExtra.equals(CENTRAL_AMERICA)) {
-            retorno = R.drawable.south_america_background3;
+            retorno = R.drawable.bg_central_america;
 
         } else if (sTagExtra.equals(SOUTH_AMERICA)) {
-            retorno = R.drawable.south_america_background1;
+            retorno = R.drawable.bg_south_america;
         } else if (sTagExtra.equals(EUROPE)) {
+            retorno =  R.drawable.bg_europa;
         } else if (sTagExtra.equals(ASIA)) {
+            retorno =  R.drawable.bg_asia;
 
         } else if (sTagExtra.equals(AFRICA)) {
+            retorno =  R.drawable.bg_africa;
         } else if (sTagExtra.equals(OCEANIA))    {
+            retorno =  R.drawable.bg_oceania;
+        } else {
 
+            getAleatoryBackgroundColor();
         }
 
         return retorno;
