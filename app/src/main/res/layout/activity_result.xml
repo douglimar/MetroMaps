@@ -15,7 +15,7 @@
         android:layout_gravity="center_horizontal"
         android:gravity="center_horizontal"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_id"
+        ads:adUnitId="@string/banner_ad_unit_TESTE"
          />
 
     <com.github.chrisbanes.photoview.PhotoView

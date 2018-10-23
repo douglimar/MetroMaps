@@ -22,7 +22,8 @@
         <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="@string/admob_app_id"/>
+            android:value="@string/admob_app_id" />
+
         <activity android:name=".ResultActivity" />
         <!-- This meta-data tag is required to use Google Play Services. -->
         <meta-data
@@ -48,6 +49,10 @@
         <activity
             android:name=".ScrollingActivity"
             android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Result2Activity"
+            android:label="@string/title_activity_result2"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

@@ -28,6 +28,7 @@ public class ListViewActivity extends AppCompatActivity {
     private String sFilter = "";
 
     private FirebaseAnalytics mFirebaseAnalytics;
+    private LinearLayout linearLayout;
 
     private static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     private int iCountAdvertisement = 0;
@@ -59,7 +60,7 @@ public class ListViewActivity extends AppCompatActivity {
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
-        LinearLayout linearLayout = findViewById(R.id.linearLayoutListView);
+        linearLayout = findViewById(R.id.linearLayoutListView);
 
         String sTagExtra;
 
@@ -94,6 +95,8 @@ public class ListViewActivity extends AppCompatActivity {
                 Cidade cidades = new Cidade();
                 myList = cidades.getAllCities(this, sTagExtra);
                 sFilter = aFilter[1]; // CITY
+
+                //linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
 
         }
 
@@ -166,7 +169,6 @@ public class ListViewActivity extends AppCompatActivity {
             intent.putExtra(EXTRA_MESSAGE, item);
 
             startActivity(intent);
-
         } else
             if (sFilter.equals("CITY")) {
 
@@ -184,7 +186,7 @@ public class ListViewActivity extends AppCompatActivity {
                 else
                     ShowAdv = "NO_SHOW";
 
-                Intent intent = new Intent(getApplicationContext(), ResultActivity.class);
+                Intent intent = new Intent(getApplicationContext(), Result2Activity.class);
                 intent.putExtra(EXTRA_MESSAGE, String.valueOf(iMessage));
                 intent.putExtra(EXTRA_MESSAGE2, ShowAdv);
                 intent.putExtra(EXTRA_MESSAGE3, item);// Titulo do Mapa
@@ -230,7 +232,8 @@ public class ListViewActivity extends AppCompatActivity {
             retorno =  R.drawable.bg_oceania;
         } else {
 
-            getAleatoryBackgroundColor();
+            linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
+
         }
 
         return retorno;

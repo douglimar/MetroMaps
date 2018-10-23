@@ -30,7 +30,7 @@
         android:id="@+id/adViewListView"
         android:layout_width="match_parent"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_id"
+        ads:adUnitId="@string/banner_ad_unit_TESTE"
         android:layout_height="0dp"
         android:layout_weight="0.15"/>
 
