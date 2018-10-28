@@ -2,14 +2,15 @@ package br.com.ddmsoftware.metromaps;
 
 import android.content.Intent;
 import android.database.Cursor;
+import android.os.Bundle;
+import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.CheckBox;
-import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdListener;
@@ -18,7 +19,7 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
-public class ResultActivity extends AppCompatActivity {
+public class Result2ActivityBackup20181027 extends AppCompatActivity {
 
     private FirebaseAnalytics mFirebaseAnalytics;
     private InterstitialAd mInterstitialAd;
@@ -27,40 +28,42 @@ public class ResultActivity extends AppCompatActivity {
     private String showAdv;
     private CheckBox chk_DefaultMap;
 
-    private PhotoView photoView2;
+    private PhotoView photoView3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_result);
+        setContentView(R.layout.activity_result2);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
 
         Intent intent = getIntent();
 
-        LinearLayout linearLayoutResult = findViewById(R.id.linearLayoutResult);
+        CoordinatorLayout coordinatorLayoutResult = findViewById(R.id.coordinatorLayoutResult2);
 
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
 
-        final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+        final String strExtraMapId = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
 
         showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
         final String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
-        chk_DefaultMap = findViewById(R.id.chk_defaultmap);
+        chk_DefaultMap = findViewById(R.id.chk_defaultmap2);
 
         //Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
         //Toast.makeText(this.getBaseContext(), R.string.map_info_message, Toast.LENGTH_LONG).show();
 
-        Snackbar.make(linearLayoutResult, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
+        Snackbar.make(coordinatorLayoutResult, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
 
 
-        photoView2 = findViewById(R.id.photo_view2);
+        photoView3 = findViewById(R.id.photo_view3);
 
-        if (!message.equals(getResources().getString(R.string.Default_button)))
+        if (!strExtraMapId.equals(getResources().getString(R.string.Default_button)))
 
-            photoView2.setImageResource(Integer.parseInt(message));
+            photoView3.setImageResource(Integer.parseInt(strExtraMapId));
 
             /*
         if (message != R.string.Default_button)
@@ -84,12 +87,18 @@ public class ResultActivity extends AppCompatActivity {
                 bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
                 mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
-                CRUD = new DatabaseController(ResultActivity.this);
+                CRUD = new DatabaseController(Result2ActivityBackup20181027.this);
 
                 if (chk_DefaultMap.isChecked()) {
 
-                    CRUD.deleteData2();
-                    CRUD.insertData2(message);
+                    // Comentados em 23.10.2018
+                    //CRUD.deleteData2();
+                    //CRUD.insertData2(message);
+
+                    //Adicionada a linha aqui
+                    CRUD.insertData3(strExtraMapId, mapName);
+
+
 
                     //String resultado = CRUD.insertData(message);
                     //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
@@ -119,7 +128,17 @@ public class ResultActivity extends AppCompatActivity {
         // Create the InterstitialAd and set the adUnitId (defined in values/strings.xml).
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+            }
+        });
     }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -130,14 +149,13 @@ public class ResultActivity extends AppCompatActivity {
             //startActivity(intent);
 
             if (showAdv.equals("SHOW_ADV"))
-               showInterstitial();
+                showInterstitial();
 
             finish(); // close this activity and return to preview activity (if there is any)
         }
 
         return super.onOptionsItemSelected(item);
     }
-
 
     private InterstitialAd newInterstitialAd() {
         InterstitialAd interstitialAd = new InterstitialAd(this);
@@ -195,7 +213,6 @@ public class ResultActivity extends AppCompatActivity {
     }
 
 
-
     private void checkDefaultMap() {
 
         final Cursor resultSet = CRUD.loadData();
@@ -212,12 +229,14 @@ public class ResultActivity extends AppCompatActivity {
                 if (!resultSet.getString(0).equals("")) {
                     //photoView2.setImageResource(resultSet.getInt(0));
                     //photoView2.setImageResource(resultSet.getInt(0));
-                    photoView2.setImageResource(resultSet.getInt(0));
-                    Toast.makeText(getApplicationContext(), "SQLite Result: " + resultSet.getInt(0) + " - " + resultSet.getString(1), Toast.LENGTH_LONG).show();
+                    photoView3.setImageResource(resultSet.getInt(0));
                 }
             } while (resultSet.moveToNext());
         }
 
         resultSet.close();
     }
+
+
+
 }

@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <!-- Include required permissions for Google Mobile Ads to run. -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,7 +16,7 @@
         android:icon="@mipmap/iconev2"
         android:label="@string/app_name"
         android:largeHeap="true"
-        android:roundIcon="@mipmap/iconev2"
+        android:roundIcon="@mipmap/bg_launcherv2"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
@@ -47,13 +48,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ScrollingActivity"
-            android:label="@string/title_activity_scrolling"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".Result2Activity"
             android:label="@string/title_activity_result2"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".FavoriteMapsActivity"></activity>
     </application>
 
 </manifest>

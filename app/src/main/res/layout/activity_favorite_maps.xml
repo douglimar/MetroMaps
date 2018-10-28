@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FavoriteMapsActivity">
+
+    <TextView
+        android:id="@+id/tvFirstMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:gravity="center_horizontal"
+        android:text="@string/tvFirstMessage" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerViewFavorites"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adViewFavorites"
+        android:layout_width="match_parent"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"/>
+
+
+</LinearLayout>

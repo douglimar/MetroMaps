@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -22,20 +23,104 @@ public class Main2Activity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE2 = "br.com.ddmsoftware.metromaps.MESSAGE2";
     public static final String EXTRA_MESSAGE3 = "br.com.ddmsoftware.metromaps.MESSAGE3";
 
+    private Intent intent;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
+
+
+        final String[] strClickable_button = {""};
+
+        final Button btnAmerica = findViewById(R.id.btnAmerica);
+        final Button btnAfrica = findViewById(R.id.btnAfrica);
+        final Button btnAsia = findViewById(R.id.btnAsia);
+        final Button btnEuropa = findViewById(R.id.btnEuropa);
+        final Button btnOceania = findViewById(R.id.btnOceania);
+        final Button btnFavoritos = findViewById(R.id.btnFavorite);
+
+        btnAmerica.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                openListViewActivity(btnAmerica.getText().toString());
+
+            }
+        });
+
+
+        btnAsia.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openListViewActivity(btnAsia.getText().toString());
+
+            }
+        });
+
+
+        btnAfrica.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openListViewActivity(btnAfrica.getText().toString());
+
+            }
+        });
+
+
+        btnEuropa.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openListViewActivity(btnEuropa.getText().toString());
+
+            }
+        });
+
+
+        btnOceania.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openListViewActivity(btnOceania.getText().toString());
+
+            }
+        });
+
+
+        btnFavoritos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                strClickable_button[0] = btnFavoritos.getText().toString();
+
+                intent = new Intent(getApplicationContext(), FavoriteMapsActivity.class);
+
+                intent.putExtra(EXTRA_MESSAGE, strClickable_button[0]);
+                intent.putExtra(EXTRA_MESSAGE2, "");
+
+                startActivity(intent);
+
+            }
+        });
+
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
-        Continent continents = new Continent();
-        List<String> myContinentList = continents.getAllContinents(this);
+        //Firebase Implementation
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, strClickable_button[0]);
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, strClickable_button[0]);
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myContinentList);
-        ListView listView = findViewById(R.id.lstContinents);
-        listView.setAdapter(adapter);
+
+
+
+        //Continent continents = new Continent();
+        //List<String> myContinentList = continents.getAllContinents(this);
+
+        //ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myContinentList);
+        //ListView listView = findViewById(R.id.lstContinents);
+        //listView.setAdapter(adapter);
 
         // Create a AdView
         // Load Advertisement Banner
@@ -43,39 +128,17 @@ public class Main2Activity extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+    }
 
-                Intent intent;
+    private void openListViewActivity(String pExtra) {
 
-                String item = adapterView.getItemAtPosition(i).toString();
-                String default_button = getResources().getString(R.string.Default_button);
+        intent = new Intent(getApplicationContext(), ListViewActivity.class);
 
-                //Firebase Implementation
-                Bundle bundle = new Bundle();
-                bundle.putString(FirebaseAnalytics.Param.ITEM_ID, String.valueOf(i));
-                bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, item);
-                bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
-                mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+        intent.putExtra(EXTRA_MESSAGE, pExtra);
+        intent.putExtra(EXTRA_MESSAGE2, "");
 
-                //Toast.makeText(getApplicationContext(), "ITEM:" + item + " | DEFAULT_BUTTON: " + default_button, Toast.LENGTH_LONG ).show();
+        startActivity(intent);
 
-                if (item.equals(default_button)) {
-
-                    intent = new Intent(getApplicationContext(), ResultActivity.class);
-
-                    intent.putExtra(EXTRA_MESSAGE, item);
-                    intent.putExtra(EXTRA_MESSAGE2, "");
-
-                } else {
-
-                    intent = new Intent(getApplicationContext(), ListViewActivity.class);
-                    intent.putExtra(EXTRA_MESSAGE, item);
-                }
-                startActivity(intent);
-            }
-        });
     }
 
 }

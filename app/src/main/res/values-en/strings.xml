@@ -69,4 +69,6 @@
     <string name="japao">Japan</string>
     <string name="cidade_do_panama">Panama City</string>
     <string name="porto_rico">Porto Rico</string>
+    <string name="Favorite_button">Favorites</string>
+
 </resources>

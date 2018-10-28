@@ -26,6 +26,10 @@ public class Result2Activity extends AppCompatActivity {
     private InterstitialAd mInterstitialAd;
     private DatabaseController CRUD;
 
+    private  MapsDatabaseController mapsDatabaseController;
+
+
+
     private String showAdv;
     private CheckBox chk_DefaultMap;
 
@@ -47,24 +51,21 @@ public class Result2Activity extends AppCompatActivity {
 
         //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
 
-        final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+        final String strExtraMapId = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
 
         showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
         final String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
         chk_DefaultMap = findViewById(R.id.chk_defaultmap2);
 
-        //Toast.makeText(this.getBaseContext(), showAdv, Toast.LENGTH_SHORT).show();
-        //Toast.makeText(this.getBaseContext(), R.string.map_info_message, Toast.LENGTH_LONG).show();
-
         Snackbar.make(coordinatorLayoutResult, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
 
 
         photoView3 = findViewById(R.id.photo_view3);
 
-        if (!message.equals(getResources().getString(R.string.Default_button)))
+        if (!strExtraMapId.equals(getResources().getString(R.string.Default_button)))
 
-            photoView3.setImageResource(Integer.parseInt(message));
+            photoView3.setImageResource(Integer.parseInt(strExtraMapId));
 
             /*
         if (message != R.string.Default_button)
@@ -92,8 +93,14 @@ public class Result2Activity extends AppCompatActivity {
 
                 if (chk_DefaultMap.isChecked()) {
 
-                    CRUD.deleteData2();
-                    CRUD.insertData2(message);
+                    // Comentados em 23.10.2018
+                    //CRUD.deleteData2();
+                    //CRUD.insertData2(message);
+
+                    //Adicionada a linha aqui
+                    CRUD.insertData3(strExtraMapId, mapName);
+
+
 
                     //String resultado = CRUD.insertData(message);
                     //Toast.makeText(ResultActivity.this, resultado, Toast.LENGTH_SHORT).show();
@@ -130,6 +137,23 @@ public class Result2Activity extends AppCompatActivity {
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+            }
+        });
+
+        FloatingActionButton fabFavorite = findViewById(R.id.fabFavorite);
+
+        fabFavorite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+
+                mapsDatabaseController = new MapsDatabaseController(Result2Activity.this, false);
+
+                mapsDatabaseController.insertData(strExtraMapId, mapName);
+
+
             }
         });
     }

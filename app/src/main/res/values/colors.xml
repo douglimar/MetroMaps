@@ -8,5 +8,11 @@
     <color name="colorBlue">#49a3cf</color>
     <color name="colorYellow">#ffe851</color>
     <color name="colorTransparentButton">#9a2e2e2e</color>
+    <color name="colorAfricaTransparentButton">#9aca6a02</color>
+    <color name="colorAmericaTransparentButton">#9a157142</color>
+    <color name="colorAsiaTransparentButton">#9ac91919</color>
+    <color name="colorEuropaTransparentButton">#9a59268f</color>
+    <color name="colorOceaniaTransparentButton">#9ab3a91f</color>
+    <color name="colorFavoritosTransparentButton">#9a56a5de</color>
     <color name="colorWhite">#FFFFFF</color>
 </resources>

@@ -37,6 +37,23 @@ class DatabaseController {
         db.insert(CreateDatabase.MAPS_TABLE,null, contentValues);
     }
 
+    public void insertData3(String pMaps_id, String pMaps_name) {
+
+        SQLiteDatabase db;
+
+        ContentValues contentValues;
+
+        db = database.getWritableDatabase();
+
+        contentValues = new ContentValues();
+        contentValues.put(CreateDatabase.MAPS_ID, pMaps_id);
+        // Nova linha
+        contentValues.put(CreateDatabase.MAPS_NAME, pMaps_name);
+
+        db.insert(CreateDatabase.MAPS_TABLE,null, contentValues);
+    }
+
+
     /*
     public String insertData(String pMaps_id) {
 
@@ -98,7 +115,7 @@ class DatabaseController {
 
         Cursor resultSet;
 
-        String[] fields = {CreateDatabase.MAPS_ID};
+        String[] fields = {CreateDatabase.MAPS_ID, CreateDatabase.MAPS_NAME};
 
         db = database.getReadableDatabase();
 

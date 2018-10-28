@@ -5,7 +5,97 @@
     android:layout_height="match_parent"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
+    android:background="@drawable/bg_world_map"
     tools:context="br.com.ddmsoftware.metromaps.Main2Activity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/btnAfrica"
+                android:textColor="@color/colorWhite"
+                android:text="@string/Africa_button"
+                android:background="@color/colorAfricaTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/btnAmerica"
+                android:textColor="@color/colorWhite"
+                android:text="@string/America_button"
+                android:background="@color/colorAmericaTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_margin="2dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/btnAsia"
+                android:textColor="@color/colorWhite"
+                android:text="@string/Asia_button"
+                android:background="@color/colorAsiaTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_margin="2dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/btnEuropa"
+                android:text="@string/Europe_button"
+                android:textColor="@color/colorWhite"
+                android:background="@color/colorEuropaTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/btnOceania"
+                android:text="@string/Oceania_button"
+                android:textColor="@color/colorWhite"
+                android:background="@color/colorOceaniaTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/btnFavorite"
+                android:textColor="@color/colorWhite"
+                android:text="@string/Favorite_button"
+                android:background="@color/colorFavoritosTransparentButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <!--
 
     <TextView
         android:id="@+id/tvFirstMessage"
@@ -20,7 +110,7 @@
         android:layout_width="match_parent"
         android:layout_weight="1"
         android:layout_height="0dp"/>
-
+-->
     <com.google.android.gms.ads.AdView
         android:id="@+id/adViewMain"
         android:layout_width="match_parent"

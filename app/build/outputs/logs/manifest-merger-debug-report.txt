@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1183b2efcc283584bcc8436a171b37cb/AndroidManifest.xml:17:1-22:12
@@ -59,20 +59,20 @@ MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/cache
 MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/b2a68f0bc094f66a12cf1fb12eef000d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/fee930e467cc186123de4a8c009bfc65/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-59:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:11-69
@@ -84,8 +84,22 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/e0a61cc6a4dfd827def57969622e1818/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/e0a61cc6a4dfd827def57969622e1818/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:7:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:9:5-67
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:10:5-67
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:23:5-67
@@ -99,9 +113,9 @@ MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/ca
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:9:22-64
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:10:5-79
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:11:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:24:5-79
@@ -115,9 +129,9 @@ MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/ca
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:11:22-76
 application
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:12:5-57:19
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:13:5-55:19
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:22:5-20
@@ -171,95 +185,91 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c0c8f1f7819e7d50c5c33b54463e167a/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:17:9-41
 	android:fullBackupContent
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:14:9-59
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:15:9-59
 	android:roundIcon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:18:9-44
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:19:9-50
 	android:largeHeap
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:17:9-33
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:18:9-33
 	android:icon
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:15:9-39
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:16:9-39
 	android:allowBackup
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:20:9-40
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:21:9-40
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:23:9-25:52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:24:9-26:52
 	android:value
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:25:13-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:26:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:24:13-69
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:25:13-69
 activity#br.com.ddmsoftware.metromaps.ResultActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:27:9-52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:28:9-52
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:27:19-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:28:19-49
 meta-data#com.google.android.gms.version
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:29:9-31:69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:30:9-32:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:31:13-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:32:13-66
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:30:13-58
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:31:13-58
 activity#br.com.ddmsoftware.metromaps.AdmobActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:33:9-35:60
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:34:9-36:60
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:35:13-57
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:36:13-57
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:34:13-42
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:35:13-42
 activity#com.google.android.gms.ads.AdActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:36:9-39:64
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:37:9-40:64
 MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:29:9-33:64
 MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:29:9-33:64
 	android:exported
 		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:38:13-122
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:39:13-122
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:39:13-61
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:40:13-61
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:37:13-65
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:38:13-65
 activity#br.com.ddmsoftware.metromaps.Main2Activity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:40:9-51
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:9-51
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:40:19-48
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:19-48
 activity#br.com.ddmsoftware.metromaps.ListViewActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:9-54
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:9-54
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:19-51
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:19-51
 activity#br.com.ddmsoftware.metromaps.Splash
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:9-48:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:9-49:20
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:19-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:13-47:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:44:17-69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:44:25-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:46:17-77
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:46:27-74
-activity#br.com.ddmsoftware.metromaps.ScrollingActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:49:9-52:59
-	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:51:13-61
-	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:52:13-56
-	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:50:13-46
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:47:27-74
 activity#br.com.ddmsoftware.metromaps.Result2Activity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:53:9-56:68
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:50:9-53:59
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:55:13-59
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:52:13-59
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:56:13-56
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:13-44
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:51:13-44
+activity#br.com.ddmsoftware.metromaps.FavoriteMapsActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:9-67
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:19-55
 uses-sdk
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
@@ -386,18 +396,6 @@ INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMap
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/e0a61cc6a4dfd827def57969622e1818/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/e0a61cc6a4dfd827def57969622e1818/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/45d4c7053bbc27e6158f0be6e18adeec/AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:24:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:27:9-31:19
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/e0a61cc6a4dfd827def57969622e1818/AndroidManifest.xml:29:9-35:19
