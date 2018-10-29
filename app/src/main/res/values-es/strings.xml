@@ -19,7 +19,7 @@
     <string name="cidade_do_cabo">Ciudad del Cabo</string>
     <string name="canada">Canada</string>
     <string name="egito">Egipto</string>
-    <string name="cidade_do_mexico">Ciudad de Mexico</string>
+    <string name="cidade_do_mexico">Ciudad de México</string>
     <string name="africa_do_sul">Sudáfrica</string>
     <string name="exibir_na_tela_inicial_mapa_padr_o">Ver en la pantalla de inicio (Mapa predeterminado)</string>
     <string name="colombia">Colombia</string>
@@ -70,4 +70,9 @@
     <string name="southkorea">Corea del Sur</string>
     <string name="cidade_do_panama">Ciudad del Panama</string>
     <string name="Favorite_button">Favoritos</string>
+    <string name="tvFavoritesTip">Aquí se muestran todos los mapas marcados como \"Favoritos.\"
+        \nPara eliminar un mapa de la lista de favoritos, pulse sobre el nombre del mapa y arrástrelo fuera de la pantalla (hacia la izquierda o derecha)</string>
+    <string name="favorites_adding_message">Mapa agregado a los favoritos</string>
+    <string name="compartilhar">Compartir mapa</string>
+    <string name="excluir_mapa_favorito">Deslice a la izquierda oa la derecha para eliminar el mapa de la lista de favoritos</string>
 </resources>

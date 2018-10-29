@@ -3,6 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bootsplash"
+    android:fitsSystemWindows="true"
     tools:context="br.com.ddmsoftware.metromaps.Splash">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
@@ -10,7 +11,7 @@
          TextureView, etc. -->
 
     <!-- This FrameLayout insets its children based on system windows using
-         android:fitsSystemWindows. -->
+         android:fitsSystemWindows.
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -26,5 +27,6 @@
 
         </LinearLayout>
     </FrameLayout>
+    -->
 
 </FrameLayout>

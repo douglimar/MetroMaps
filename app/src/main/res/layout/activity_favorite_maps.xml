@@ -7,13 +7,43 @@
     android:orientation="vertical"
     tools:context=".FavoriteMapsActivity">
 
-    <TextView
-        android:id="@+id/tvFirstMessage"
+    <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:gravity="center_horizontal"
-        android:text="@string/tvFirstMessage" />
+        android:layout_margin="5dp"
+        ads:cardCornerRadius="5dp"
+        android:layout_weight="0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/browser_actions_divider_color"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                ads:srcCompat="@drawable/ic_touch_app_blue_48dp"
+                android:contentDescription="@string/todo" />
+
+            <TextView
+                android:id="@+id/tvFirstMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="start"
+                android:textColor="@color/colorBlue"
+                android:text="@string/tvFavoritesTip" />
+
+
+        </LinearLayout>
+
+
+
+
+
+    </android.support.v7.widget.CardView>
 
 
     <android.support.v7.widget.RecyclerView

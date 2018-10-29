@@ -4,20 +4,13 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
-import java.util.List;
-
 public class Main2Activity extends AppCompatActivity {
-
-    private FirebaseAnalytics mFirebaseAnalytics;
 
     public static final String EXTRA_MESSAGE  = "br.com.ddmsoftware.metromaps.MESSAGE";
     public static final String EXTRA_MESSAGE2 = "br.com.ddmsoftware.metromaps.MESSAGE2";
@@ -103,7 +96,7 @@ public class Main2Activity extends AppCompatActivity {
         });
 
         // Obtain the FirebaseAnalytics instance.
-        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+        FirebaseAnalytics mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         //Firebase Implementation
         Bundle bundle = new Bundle();
@@ -112,15 +105,6 @@ public class Main2Activity extends AppCompatActivity {
         bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
         mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
-
-
-
-        //Continent continents = new Continent();
-        //List<String> myContinentList = continents.getAllContinents(this);
-
-        //ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.item_row,R.id.tvItemRow, myContinentList);
-        //ListView listView = findViewById(R.id.lstContinents);
-        //listView.setAdapter(adapter);
 
         // Create a AdView
         // Load Advertisement Banner

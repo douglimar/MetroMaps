@@ -2,7 +2,7 @@ package br.com.ddmsoftware.metromaps;
 
 import android.provider.BaseColumns;
 
-public class MapsContract {
+class MapsContract {
 
     private MapsContract(){
 

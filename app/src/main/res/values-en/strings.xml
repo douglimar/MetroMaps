@@ -70,5 +70,10 @@
     <string name="cidade_do_panama">Panama City</string>
     <string name="porto_rico">Porto Rico</string>
     <string name="Favorite_button">Favorites</string>
+    <string name="tvFavoritesTip">Here you will see all maps marked as \"Favorites.\"
+        \nTo delete a map from the Favorites list, press on the name of the map and drag it off the screen (to the left or right)</string>
+    <string name="favorites_adding_message">Map add to Favorites</string>
+    <string name="compartilhar">Sharing map</string>
+    <string name="excluir_mapa_favorito">Swipe left or right to delete the map from the favorites list</string>
 
 </resources>

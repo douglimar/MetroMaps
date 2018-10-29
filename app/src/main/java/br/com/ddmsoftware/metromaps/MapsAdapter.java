@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder> {
-    Context mContext;
+    private final Context mContext;
     Cursor mCursor;
 
 
@@ -21,7 +21,7 @@ public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder
 
     public class MapsViewHolder extends RecyclerView.ViewHolder {
 
-        TextView tvMapsName;
+        final TextView tvMapsName;
 
         public MapsViewHolder(View itemView) {
             super(itemView);
@@ -31,8 +31,9 @@ public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder
     }
 
 
+    @NonNull
     @Override
-    public MapsViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
+    public MapsViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         LayoutInflater inflater = LayoutInflater.from(mContext);
         View view = inflater.inflate(R.layout.item_row, viewGroup, false);
 
@@ -40,7 +41,7 @@ public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder
     }
 
     @Override
-    public void onBindViewHolder(MapsViewHolder mapsViewHolder, int i) {
+    public void onBindViewHolder(@NonNull MapsViewHolder mapsViewHolder, int i) {
 
         if (!mCursor.moveToPosition(i)) {
             return;

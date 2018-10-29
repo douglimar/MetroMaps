@@ -20,6 +20,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <!-- Defining the Provider - to share Image without a full path in the application -->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="@string/file_provider_authority"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_provider_paths" />
+        </provider>
+
         <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
@@ -38,9 +49,12 @@
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
-        <activity android:name=".Main2Activity" />
-        <activity android:name=".ListViewActivity" />
-        <activity android:name=".Splash">
+        <activity android:name=".Main2Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ListViewActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Splash"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -51,7 +65,12 @@
             android:name=".Result2Activity"
             android:label="@string/title_activity_result2"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".FavoriteMapsActivity"></activity>
+        <activity android:name=".FavoriteMapsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FavoriteMapsResultActivity"
+        android:label="@string/title_activity_favorite_maps_resultctivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>

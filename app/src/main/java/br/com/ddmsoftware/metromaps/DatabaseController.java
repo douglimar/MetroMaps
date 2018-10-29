@@ -15,7 +15,6 @@ import android.database.sqlite.SQLiteDatabase;
 class DatabaseController {
 
     private final CreateDatabase database;
-    private SQLiteDatabase db;
 
     public DatabaseController(Context context) {
 
@@ -33,22 +32,6 @@ class DatabaseController {
 
         contentValues = new ContentValues();
         contentValues.put(CreateDatabase.MAPS_ID, pMaps_id);
-
-        db.insert(CreateDatabase.MAPS_TABLE,null, contentValues);
-    }
-
-    public void insertData3(String pMaps_id, String pMaps_name) {
-
-        SQLiteDatabase db;
-
-        ContentValues contentValues;
-
-        db = database.getWritableDatabase();
-
-        contentValues = new ContentValues();
-        contentValues.put(CreateDatabase.MAPS_ID, pMaps_id);
-        // Nova linha
-        contentValues.put(CreateDatabase.MAPS_NAME, pMaps_name);
 
         db.insert(CreateDatabase.MAPS_TABLE,null, contentValues);
     }
@@ -117,7 +100,7 @@ class DatabaseController {
 
         String[] fields = {CreateDatabase.MAPS_ID, CreateDatabase.MAPS_NAME};
 
-        db = database.getReadableDatabase();
+        SQLiteDatabase db = database.getReadableDatabase();
 
         resultSet = db.query(CreateDatabase.MAPS_TABLE, fields, null,null,null,null,null);
 

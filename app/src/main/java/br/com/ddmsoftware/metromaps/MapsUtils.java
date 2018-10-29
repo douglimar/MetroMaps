@@ -2,7 +2,7 @@ package br.com.ddmsoftware.metromaps;
 
 import android.content.Context;
 
-public final class MapsUtils {
+final class MapsUtils {
 
 
     public static int getImageMapID(Context context, String item) {
@@ -135,5 +135,6 @@ public final class MapsUtils {
 
         return value;
     }
+
 
 }

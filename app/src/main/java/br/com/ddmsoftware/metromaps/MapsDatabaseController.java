@@ -4,9 +4,8 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.widget.Toast;
 
-public class MapsDatabaseController {
+class MapsDatabaseController {
 
     private final MapsDBHelper mapsDBHelper;
     private SQLiteDatabase sqLiteDatabase;

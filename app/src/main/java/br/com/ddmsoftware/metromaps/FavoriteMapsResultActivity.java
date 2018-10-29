@@ -4,7 +4,6 @@ import android.Manifest;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
@@ -18,7 +17,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.CheckBox;
 
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdListener;
@@ -31,66 +29,51 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-
 @SuppressWarnings("JavaDoc")
-public class Result2Activity extends AppCompatActivity {
+public class FavoriteMapsResultActivity extends AppCompatActivity {
 
-    //private FirebaseAnalytics mFirebaseAnalytics;
     private InterstitialAd mInterstitialAd;
-    private DatabaseController CRUD;
-
-    private  MapsDatabaseController mapsDatabaseController;
-
-
     private boolean bFirstRun = true;
 
     private String showAdv;
-    private CheckBox chk_DefaultMap;
 
-    private PhotoView photoView3;
+    private PhotoView photoView2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_result2);
+        setContentView(R.layout.activity_favorite_maps_result_activity);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
         Intent intent = getIntent();
 
-        CoordinatorLayout coordinatorLayoutResult = findViewById(R.id.coordinatorLayoutResult2);
+        CoordinatorLayout coordinatorLayout = findViewById(R.id.coordinatorLayoutFavoriteResult);
 
         // Obtain the FirebaseAnalytics instance.
         FirebaseAnalytics mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
+        //Firebase Implementation
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "XXX");
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "favoritesMaps-Result");
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
+
         //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
 
-        final String strExtraMapId = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+        final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
 
         showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
         final String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
 
-        Snackbar.make(coordinatorLayoutResult, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
+        Snackbar.make(coordinatorLayout, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
 
-
-        photoView3 = findViewById(R.id.photo_view3);
-
-        if (!strExtraMapId.equals(getResources().getString(R.string.Default_button)))
-
-            photoView3.setImageResource(Integer.parseInt(strExtraMapId));
-
-            /*
-        if (message != R.string.Default_button)
-            photoView2.setImageResource(message); */
-        else {
-
-            CRUD = new DatabaseController(this);
-            checkDefaultMap();
-        }
+        photoView2 = findViewById(R.id.photo_view2);
+        photoView2.setImageResource(Integer.parseInt(message));
 
         this.setTitle(mapName);
-
 
         // add back arrow to toolbar
         if (getSupportActionBar() != null){
@@ -108,7 +91,7 @@ public class Result2Activity extends AppCompatActivity {
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
 
-        FloatingActionButton fab = findViewById(R.id.fab);
+        FloatingActionButton fab = findViewById(R.id.fabFavoriteShare);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -118,25 +101,7 @@ public class Result2Activity extends AppCompatActivity {
                 shareImagebyProvider(0);
             }
         });
-
-        FloatingActionButton fabFavorite = findViewById(R.id.fabFavorite);
-
-        fabFavorite.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                Snackbar.make(view, R.string.favorites_adding_message, Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-
-                mapsDatabaseController = new MapsDatabaseController(Result2Activity.this, false);
-
-                mapsDatabaseController.insertData(strExtraMapId, mapName);
-
-
-            }
-        });
     }
-
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -154,6 +119,7 @@ public class Result2Activity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
 
     private InterstitialAd newInterstitialAd() {
         InterstitialAd interstitialAd = new InterstitialAd(this);
@@ -211,30 +177,6 @@ public class Result2Activity extends AppCompatActivity {
     }
 
 
-    private void checkDefaultMap() {
-
-        final Cursor resultSet = CRUD.loadData();
-
-        int iTotReg = resultSet.getCount();
-
-        //Toast.makeText(this.getApplicationContext(), "Tot.Reg:"  + iTotReg, Toast.LENGTH_SHORT ).show();
-
-        if (iTotReg>0){
-            resultSet.moveToFirst();
-
-            do {
-
-                if (!resultSet.getString(0).equals("")) {
-                    //photoView2.setImageResource(resultSet.getInt(0));
-                    //photoView2.setImageResource(resultSet.getInt(0));
-                    photoView3.setImageResource(resultSet.getInt(0));
-                }
-            } while (resultSet.moveToNext());
-        }
-
-        resultSet.close();
-    }
-
     private void shareImagebyProvider(int iRepeat) {
 
         Bitmap bitmap;
@@ -242,16 +184,16 @@ public class Result2Activity extends AppCompatActivity {
         OutputStream output;
 
         if (bFirstRun) {
-            verifyStoragePermissions(Result2Activity.this);
+            verifyStoragePermissions(FavoriteMapsResultActivity.this);
             bFirstRun = false;
         }
 
         // Retrieve the image selected in ImageView component
-        photoView3.buildDrawingCache(true);
+        photoView2.buildDrawingCache(true);
 
-        bitmap = photoView3.getDrawingCache();
+        bitmap = photoView2.getDrawingCache();
 
-        photoView3.buildDrawingCache(false);
+        photoView2.buildDrawingCache(false);
 
         // Find the SD Card path
         File filepath = Environment.getExternalStorageDirectory();
@@ -293,7 +235,7 @@ public class Result2Activity extends AppCompatActivity {
                 // Locate the image to Share
                 //Uri uri = Uri.fromFile(file);
 
-                Uri photoUri = FileProvider.getUriForFile(Result2Activity.this, getString(R.string.file_provider_authority), file);
+                Uri photoUri = FileProvider.getUriForFile(FavoriteMapsResultActivity.this, getString(R.string.file_provider_authority), file);
 
 
                 // Pass the image into an Intnet
@@ -345,9 +287,4 @@ public class Result2Activity extends AppCompatActivity {
         }
     }
 
-
-
-
 }
-
-

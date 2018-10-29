@@ -1,6 +1,5 @@
 package br.com.ddmsoftware.metromaps;
 
-import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,14 +9,12 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-//import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.List;
-import java.util.Random;
 
 import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE2;
 import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE3;
@@ -28,19 +25,18 @@ public class ListViewActivity extends AppCompatActivity {
     private String sFilter = "";
 
     private FirebaseAnalytics mFirebaseAnalytics;
-    private LinearLayout linearLayout;
 
     private static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     private int iCountAdvertisement = 0;
 
-    String AMERICA ;
-    String SOUTH_AMERICA ;
-    String NORTH_AMERICA ;
-    String CENTRAL_AMERICA ;
-    String AFRICA ;
-    String ASIA ;
-    String EUROPE;
-    String OCEANIA;
+    private String AMERICA ;
+    private String SOUTH_AMERICA ;
+    private String NORTH_AMERICA ;
+    private String CENTRAL_AMERICA ;
+    private String AFRICA ;
+    private String ASIA ;
+    private String EUROPE;
+    private String OCEANIA;
 
 
     @Override
@@ -60,11 +56,11 @@ public class ListViewActivity extends AppCompatActivity {
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
-        linearLayout = findViewById(R.id.linearLayoutListView);
+        LinearLayout linearLayout = findViewById(R.id.linearLayoutListView);
 
         String sTagExtra;
 
-        //Help to identify if the User is clicking over a Country / Continent or a Final List (City)
+        //Help to identify if the User is clicking over a Country a Final List (City)
         //If were a Final List, the next screen shall be the Map Screen.
         String aFilter[] = {"COUNTRY", "CITY"};
 
@@ -194,7 +190,7 @@ public class ListViewActivity extends AppCompatActivity {
             }
    }
 
-    private int getAleatoryBackgroundColor(){
+    /*private int getAleatoryBackgroundColor(){
 
         int[] iColors = {R.color.colorAccent, R.color.colorBlue, R.color.colorGreen, R.color.colorYellow, R.color.colorOrange};
 
@@ -206,7 +202,7 @@ public class ListViewActivity extends AppCompatActivity {
 
         return iColors[i];
 
-    }
+    }*/
 
     private int getBackground(String sTagExtra) {
 
@@ -222,25 +218,22 @@ public class ListViewActivity extends AppCompatActivity {
         } else if (sTagExtra.equals(SOUTH_AMERICA)) {
             retorno = R.drawable.bg_south_america;
         } else if (sTagExtra.equals(EUROPE)) {
-            retorno =  R.drawable.bg_europa;
+            retorno = R.drawable.bg_europa;
         } else if (sTagExtra.equals(ASIA)) {
-            retorno =  R.drawable.bg_asia;
+            retorno = R.drawable.bg_asia;
 
         } else if (sTagExtra.equals(AFRICA)) {
-            retorno =  R.drawable.bg_africa;
-        } else if (sTagExtra.equals(OCEANIA))    {
-            retorno =  R.drawable.bg_oceania;
-        } else {
+            retorno = R.drawable.bg_africa;
+        } else if (sTagExtra.equals(OCEANIA)) {
+            retorno = R.drawable.bg_oceania;
+        }
+
+        /*else {
 
             linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
 
-        }
+        }*/
 
         return retorno;
-
-
-    };
-
-
-
+    }
 }

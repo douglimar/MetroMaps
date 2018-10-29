@@ -113,7 +113,7 @@ public class AdmobActivity extends AppCompatActivity {
 
     private void goToNextLevel() {
         // Show the next level and reload the ad to prepare for the level after.
-        mLevelTextView.setText("Level " + (++mLevel));
+        mLevelTextView.setText(String.format(getString(R.string.level), ++mLevel));
         mInterstitialAd = newInterstitialAd();
         loadInterstitial();
     }
