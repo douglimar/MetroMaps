@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder> {
     private final Context mContext;
-    Cursor mCursor;
+    private Cursor mCursor;
 
 
     public MapsAdapter(Context context, Cursor cursor) {

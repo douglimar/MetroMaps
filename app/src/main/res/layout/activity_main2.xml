@@ -9,13 +9,11 @@
     android:background="@drawable/bg_world_map"
     tools:context="br.com.ddmsoftware.metromaps.Main2Activity">
 
-
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_margin="5dp"
-        android:layout_weight="2"
+        android:layout_weight="1"
         android:orientation="horizontal"
         android:baselineAligned="false">
 
@@ -117,6 +115,6 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        ads:adUnitId="@string/banner_ad_unit_id"
         android:layout_weight="0.15"/>
 </LinearLayout>

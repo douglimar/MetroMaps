@@ -7,12 +7,11 @@ import android.database.sqlite.SQLiteDatabase;
 
 class MapsDatabaseController {
 
-    private final MapsDBHelper mapsDBHelper;
     private SQLiteDatabase sqLiteDatabase;
 
     public MapsDatabaseController(Context context, Boolean READ_ONLY) {
 
-        mapsDBHelper = new MapsDBHelper(context);
+        MapsDBHelper mapsDBHelper = new MapsDBHelper(context);
 
         if(READ_ONLY) {
             sqLiteDatabase = mapsDBHelper.getReadableDatabase();
@@ -60,30 +59,5 @@ class MapsDatabaseController {
         sqLiteDatabase.delete(MapsContract.MapsEntry.TABLE_NAME,
                 MapsContract.MapsEntry._ID+ " = " + id,
                 null);
-
-
-    }
-
-
-    public Cursor loadData() {
-
-        Cursor resultSet;
-
-        String[] fields = {CreateDatabase.MAPS_ID, CreateDatabase.MAPS_NAME};
-
-        sqLiteDatabase = mapsDBHelper.getReadableDatabase();
-
-        resultSet = sqLiteDatabase.query(CreateDatabase.MAPS_TABLE, fields, null,null,null,null,null);
-
-        // Faz a Consulta no Banco -- Modo rawQuery -- ANSI-SQL
-        //resultSet = db.rawQuery("SELECT * FROM MAPS_TABLE",null);
-
-        if (resultSet!=null) {
-            resultSet.moveToFirst();
-        }
-
-        sqLiteDatabase.close();
-        return resultSet;
-
     }
 }

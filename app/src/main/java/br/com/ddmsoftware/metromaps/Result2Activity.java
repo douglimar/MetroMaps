@@ -18,7 +18,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.CheckBox;
 
 import com.github.chrisbanes.photoview.PhotoView;
 import com.google.android.gms.ads.AdListener;
@@ -45,7 +44,6 @@ public class Result2Activity extends AppCompatActivity {
     private boolean bFirstRun = true;
 
     private String showAdv;
-    private CheckBox chk_DefaultMap;
 
     private PhotoView photoView3;
 
@@ -63,6 +61,13 @@ public class Result2Activity extends AppCompatActivity {
 
         // Obtain the FirebaseAnalytics instance.
         FirebaseAnalytics mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
+        //Firebase Implementation
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "XXX");
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "favoritesMaps-Result");
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
         //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
 
@@ -265,9 +270,7 @@ public class Result2Activity extends AppCompatActivity {
             System.out.println("Erro ao criar Diretorio via MKDIR");
         }
 
-
         // Create a name for the saved image
-        String full_filename = dir.toString() + "/MetroMap" + System.currentTimeMillis() + ".png";
         File file = new File(dir, "MetroMap" + System.currentTimeMillis() + ".png");
 
         try {

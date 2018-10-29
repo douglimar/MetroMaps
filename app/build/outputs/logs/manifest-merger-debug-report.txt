@@ -1,22 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1183b2efcc283584bcc8436a171b37cb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/efd73cb7003e202454f03fbfdf849288/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:17:1-55:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/7febf9e56ac205ff74b53de6cb721364/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/9c79026d0b4889a995d4c68cca063a6d/AndroidManifest.xml:17:1-24:12
@@ -31,10 +24,17 @@ MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/douglimar/.g
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b38062f411b935bc93fe95133f8161a0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c42572bf2a5a7bf5f52c3f22e58a125c/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5346012007f908c032f62529f8f20e48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/009b746d08713a84d03a3ee63e25e89a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/460c46fff409df7d6ffb67e29c6ea2fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/de74287585f9f12383ebb46a040127f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7ad21f98256299b024c322f50dd40b9e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd84bbf5657eb810addc8b039df5c19f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6329dae506c0d20dbd1be6a690d15843/AndroidManifest.xml:17:1-22:12
@@ -47,32 +47,32 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/douglimar/.gr
 MERGED from [com.android.support:support-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c0c8f1f7819e7d50c5c33b54463e167a/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8688e25bd7e26e06afda5ee8829ebfbe/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/567b842e9ee9067b2c47e2aeb710c193/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c62b875d7def797f4a62e4ef7323aaaf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3d60c9d0915290b1cf14a9831e09fe4d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e3a5da655de98335a6bc163fed1db819/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/107faa9206e9e93626f5cef309072551/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b9e206e4ce1a4e864f910cda70f748c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/b2a68f0bc094f66a12cf1fb12eef000d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/fee930e467cc186123de4a8c009bfc65/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
 	package
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-57:12
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:1-76:12
 		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:2:11-69
@@ -131,13 +131,11 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /h
 	android:name
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:11:22-76
 application
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:13:5-55:19
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:13:5-74:19
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/e205d3b4befc52a600671e98a6ef4125/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:28:5-53:19
@@ -170,10 +168,8 @@ MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/douglimar/
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c42572bf2a5a7bf5f52c3f22e58a125c/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c0c8f1f7819e7d50c5c33b54463e167a/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c0c8f1f7819e7d50c5c33b54463e167a/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8688e25bd7e26e06afda5ee8829ebfbe/AndroidManifest.xml:22:5-23:19
@@ -200,76 +196,108 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:21:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:grantUriPermissions
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:28:13-47
+	android:authorities
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:26:13-66
+	android:exported
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:25:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:29:13-31:63
+	android:resource
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:31:17-60
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:30:17-67
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:24:9-26:52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:35:9-37:52
 	android:value
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:26:13-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:37:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:25:13-69
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:36:13-69
 activity#br.com.ddmsoftware.metromaps.ResultActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:28:9-52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:39:9-52
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:28:19-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:39:19-49
 meta-data#com.google.android.gms.version
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:30:9-32:69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:9-43:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:32:13-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:13-66
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:31:13-58
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:13-58
 activity#br.com.ddmsoftware.metromaps.AdmobActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:34:9-36:60
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:45:9-47:60
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:36:13-57
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:47:13-57
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:35:13-42
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:46:13-42
 activity#com.google.android.gms.ads.AdActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:37:9-40:64
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:48:9-51:64
 MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:29:9-33:64
 MERGED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:29:9-33:64
 	android:exported
 		ADDED from [com.google.android.gms:play-services-ads-lite:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/6292e622a03bb7c41be95dd868fe2f8b/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:39:13-122
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:50:13-122
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:40:13-61
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:51:13-61
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:38:13-65
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:49:13-65
 activity#br.com.ddmsoftware.metromaps.Main2Activity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:9-51
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:52:9-53:51
+	android:screenOrientation
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:53:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:41:19-48
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:52:19-48
 activity#br.com.ddmsoftware.metromaps.ListViewActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:9-54
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:9-55:51
+	android:screenOrientation
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:55:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:42:19-51
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:19-51
 activity#br.com.ddmsoftware.metromaps.Splash
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:9-49:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:56:9-63:20
+	android:screenOrientation
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:57:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:43:19-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:56:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:44:13-48:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:58:13-62:29
 action#android.intent.action.MAIN
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:45:17-69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:59:17-69
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:45:25-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:59:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:47:17-77
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:61:17-77
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:47:27-74
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:61:27-74
 activity#br.com.ddmsoftware.metromaps.Result2Activity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:50:9-53:59
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:64:9-67:59
 	android:label
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:52:13-59
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:66:13-59
 	android:theme
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:53:13-56
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:67:13-56
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:51:13-44
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:65:13-44
 activity#br.com.ddmsoftware.metromaps.FavoriteMapsActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:9-67
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:68:9-69:52
+	android:screenOrientation
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:69:13-49
 	android:name
-		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:54:19-55
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:68:19-55
+activity#br.com.ddmsoftware.metromaps.FavoriteMapsResultActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:70:9-73:58
+	android:label
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:72:9-75
+	android:theme
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml:71:13-55
 uses-sdk
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MetroMaps/MetroMaps/app/src/main/AndroidManifest.xml
@@ -280,26 +308,12 @@ MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/t
 MERGED from [com.android.support:design:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d754d50d2bf0b682c7b849ec0a6c53d7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1183b2efcc283584bcc8436a171b37cb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1183b2efcc283584bcc8436a171b37cb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/efd73cb7003e202454f03fbfdf849288/AndroidManifest.xml:21:5-23:62
 MERGED from [com.google.android.gms:play-services-ads:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/efd73cb7003e202454f03fbfdf849288/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/98039aece35a43a77d84e3a224fa7608/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.4] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/7f78a2c124b3cfc17cd06a701c0416b2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/7febf9e56ac205ff74b53de6cb721364/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/7febf9e56ac205ff74b53de6cb721364/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /home/douglimar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/13687f4f57ed68edc50dea911c9e01c0/AndroidManifest.xml:20:5-44
@@ -328,14 +342,28 @@ MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/douglimar/
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c42572bf2a5a7bf5f52c3f22e58a125c/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/de85a5c727fefb07e80e8a09e552b40b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-v4:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5346012007f908c032f62529f8f20e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/5346012007f908c032f62529f8f20e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/009b746d08713a84d03a3ee63e25e89a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/009b746d08713a84d03a3ee63e25e89a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8bc0aab017c5d994cd8eb6727c7b9295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/33ac9ad8b9edca3de9340b76332b0736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5397487a33e79aeee8b6998924fc2cf6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/PhotoView-2.0.0.aar/2f43d0216ed6c2110651531a3f378031/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:support-fragment:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/460c46fff409df7d6ffb67e29c6ea2fc/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/460c46fff409df7d6ffb67e29c6ea2fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/252521e7db2bf3a0e38a6a4c92e73649/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2cc7c50f74efb310d388ea24e7deaf9b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/de74287585f9f12383ebb46a040127f5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/de74287585f9f12383ebb46a040127f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/110fa5cda062a35befd6b86b16b2a966/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7ad21f98256299b024c322f50dd40b9e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7ad21f98256299b024c322f50dd40b9e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd84bbf5657eb810addc8b039df5c19f/AndroidManifest.xml:20:5-44
@@ -360,14 +388,12 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/douglimar/.gr
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8688e25bd7e26e06afda5ee8829ebfbe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/567b842e9ee9067b2c47e2aeb710c193/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/567b842e9ee9067b2c47e2aeb710c193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c62b875d7def797f4a62e4ef7323aaaf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c62b875d7def797f4a62e4ef7323aaaf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3d60c9d0915290b1cf14a9831e09fe4d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3d60c9d0915290b1cf14a9831e09fe4d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e3a5da655de98335a6bc163fed1db819/AndroidManifest.xml:20:5-44
@@ -376,10 +402,12 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/douglimar/.gradle
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/107faa9206e9e93626f5cef309072551/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b9e206e4ce1a4e864f910cda70f748c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b9e206e4ce1a4e864f910cda70f748c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80e14fb6589854a2d337afd6860a3e10/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e74863ce1e84c648459beaa23e0b83a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2468fa123a0324f11ef6ac413e48a00b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/f842fd17af376665f43f27fc8f9c1f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9c5ed8196378c9a85773ad0e0b4c5c22/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/b2a68f0bc094f66a12cf1fb12eef000d/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/b2a68f0bc094f66a12cf1fb12eef000d/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/fee930e467cc186123de4a8c009bfc65/AndroidManifest.xml:5:5-44
@@ -526,11 +554,3 @@ ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/douglimar/.g
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b38062f411b935bc93fe95133f8161a0/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b38062f411b935bc93fe95133f8161a0/AndroidManifest.xml:24:13-79
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d10a25395191d9300803cea480df5a9c/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] /home/douglimar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d30e15d5441b0dad21a83583561c2b70/AndroidManifest.xml:27:13-51

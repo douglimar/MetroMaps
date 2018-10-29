@@ -24,10 +24,6 @@ public class FavoriteMapsActivity extends AppCompatActivity {
     private MapsAdapter mapsAdapter;
     private MapsDatabaseController mapsDBController;
 
-    private String sFilter = "";
-
-
-
     private static final String EXTRA_MESSAGE = "br.com.ddmsoftware.metromaps.MESSAGE";
     private int iCountAdvertisement = 0;
 
@@ -118,14 +114,6 @@ public class FavoriteMapsActivity extends AppCompatActivity {
         mapsAdapter.swapCursor(mapsDBController.getAllItems());
 
 
-    }
-
-    public String getItem(RecyclerView recyclerView, int position){
-
-        View v = Objects.requireNonNull(recyclerView.getLayoutManager()).findViewByPosition(position);
-
-        assert v != null;
-        return  v.toString();
     }
 
     private void openFavoriteMap(String item) {

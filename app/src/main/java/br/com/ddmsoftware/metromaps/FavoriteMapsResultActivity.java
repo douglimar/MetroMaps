@@ -207,9 +207,7 @@ public class FavoriteMapsResultActivity extends AppCompatActivity {
             System.out.println("Erro ao criar Diretorio via MKDIR");
         }
 
-
         // Create a name for the saved image
-        String full_filename = dir.toString() + "/MetroMap" + System.currentTimeMillis() + ".png";
         File file = new File(dir, "MetroMap" + System.currentTimeMillis() + ".png");
 
         try {
