@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 
 class MapsDatabaseController {
 
-    private SQLiteDatabase sqLiteDatabase;
+    private final SQLiteDatabase sqLiteDatabase;
 
     public MapsDatabaseController(Context context, Boolean READ_ONLY) {
 

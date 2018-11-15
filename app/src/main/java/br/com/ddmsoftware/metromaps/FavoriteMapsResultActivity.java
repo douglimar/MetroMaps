@@ -61,12 +61,12 @@ public class FavoriteMapsResultActivity extends AppCompatActivity {
         mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
 
-        //final int message = Integer.parseInt(intent.getStringExtra(Main2Activity.EXTRA_MESSAGE));
+        //final int message = Integer.parseInt(intent.getStringExtra(MainActivity.EXTRA_MESSAGE));
 
-        final String message = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+        final String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
 
-        showAdv = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE2);
-        final String mapName = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE3);
+        showAdv = intent.getStringExtra(MainActivity.EXTRA_MESSAGE2);
+        final String mapName = intent.getStringExtra(MainActivity.EXTRA_MESSAGE3);
 
         Snackbar.make(coordinatorLayout, R.string.map_info_message, Snackbar.LENGTH_LONG).show();
 

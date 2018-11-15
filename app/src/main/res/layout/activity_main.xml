@@ -7,7 +7,7 @@
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:background="@drawable/bg_world_map"
-    tools:context="br.com.ddmsoftware.metromaps.Main2Activity">
+    tools:context="br.com.ddmsoftware.metromaps.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -94,22 +94,7 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!--
 
-    <TextView
-        android:id="@+id/tvFirstMessage"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:gravity="center_horizontal"
-        android:text="@string/tvFirstMessage" />
-
-    <ListView
-        android:id="@+id/lstContinents"
-        android:layout_width="match_parent"
-        android:layout_weight="1"
-        android:layout_height="0dp"/>
--->
     <com.google.android.gms.ads.AdView
         android:id="@+id/adViewMain"
         android:layout_width="match_parent"

@@ -15,9 +15,10 @@ import com.google.android.gms.ads.AdView;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.List;
+import java.util.Random;
 
-import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE2;
-import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE3;
+import static br.com.ddmsoftware.metromaps.MainActivity.EXTRA_MESSAGE2;
+import static br.com.ddmsoftware.metromaps.MainActivity.EXTRA_MESSAGE3;
 
 public class ListViewActivity extends AppCompatActivity {
 
@@ -73,7 +74,7 @@ public class ListViewActivity extends AppCompatActivity {
         Intent intent = getIntent();
         //TextView itemRow = (TextView)findViewById(R.id.tvItemRow);
 
-        sTagExtra = intent.getStringExtra(Main2Activity.EXTRA_MESSAGE);
+        sTagExtra = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
 
         List<String> myList;
 
@@ -182,7 +183,7 @@ public class ListViewActivity extends AppCompatActivity {
                 else
                     ShowAdv = "NO_SHOW";
 
-                Intent intent = new Intent(getApplicationContext(), Result2Activity.class);
+                Intent intent = new Intent(getApplicationContext(), ResultActivity.class);
                 intent.putExtra(EXTRA_MESSAGE, String.valueOf(iMessage));
                 intent.putExtra(EXTRA_MESSAGE2, ShowAdv);
                 intent.putExtra(EXTRA_MESSAGE3, item);// Titulo do Mapa
@@ -190,7 +191,7 @@ public class ListViewActivity extends AppCompatActivity {
             }
    }
 
-    /*private int getAleatoryBackgroundColor(){
+    private int getAleatoryBackgroundColor(){
 
         int[] iColors = {R.color.colorAccent, R.color.colorBlue, R.color.colorGreen, R.color.colorYellow, R.color.colorOrange};
 
@@ -202,11 +203,13 @@ public class ListViewActivity extends AppCompatActivity {
 
         return iColors[i];
 
-    }*/
+    }
 
+    @SuppressWarnings("ConstantConditions")
     private int getBackground(String sTagExtra) {
 
-        int retorno = 0;
+        int retorno;
+
         if (sTagExtra.equals(AMERICA)) {
 
             retorno = R.drawable.bg_americas;
@@ -228,11 +231,11 @@ public class ListViewActivity extends AppCompatActivity {
             retorno = R.drawable.bg_oceania;
         }
 
-        /*else {
+        else {
 
-            linearLayout.setBackgroundResource(getAleatoryBackgroundColor());
+            retorno = getAleatoryBackgroundColor();
 
-        }*/
+        }
 
         return retorno;
     }

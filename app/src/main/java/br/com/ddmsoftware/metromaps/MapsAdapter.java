@@ -23,7 +23,7 @@ public class MapsAdapter extends RecyclerView.Adapter<MapsAdapter.MapsViewHolder
 
         final TextView tvMapsName;
 
-        public MapsViewHolder(View itemView) {
+        MapsViewHolder(View itemView) {
             super(itemView);
 
             tvMapsName = itemView.findViewById(R.id.tvItemRow);

@@ -16,7 +16,7 @@
         android:icon="@mipmap/iconev2"
         android:label="@string/app_name"
         android:largeHeap="true"
-        android:roundIcon="@mipmap/bg_launcherv2"
+        android:roundIcon="@mipmap/iconev2"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
@@ -36,7 +36,6 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/admob_app_id" />
 
-        <activity android:name=".ResultActivity" />
         <!-- This meta-data tag is required to use Google Play Services. -->
         <meta-data
             android:name="com.google.android.gms.version"
@@ -49,7 +48,7 @@
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
-        <activity android:name=".Main2Activity"
+        <activity android:name=".MainActivity"
             android:screenOrientation="portrait"/>
         <activity android:name=".ListViewActivity"
             android:screenOrientation="portrait"/>
@@ -62,7 +61,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Result2Activity"
+            android:name=".ResultActivity"
             android:label="@string/title_activity_result2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".FavoriteMapsActivity"

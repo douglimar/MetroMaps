@@ -16,8 +16,8 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.Objects;
 
-import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE2;
-import static br.com.ddmsoftware.metromaps.Main2Activity.EXTRA_MESSAGE3;
+import static br.com.ddmsoftware.metromaps.MainActivity.EXTRA_MESSAGE2;
+import static br.com.ddmsoftware.metromaps.MainActivity.EXTRA_MESSAGE3;
 
 public class FavoriteMapsActivity extends AppCompatActivity {
 
@@ -68,7 +68,7 @@ public class FavoriteMapsActivity extends AppCompatActivity {
         recyclerView.addOnItemTouchListener(
                 new RecyclerItemClickListener(getBaseContext(), recyclerView, new RecyclerItemClickListener.OnItemClickListener() {
                     @Override
-                    public void onItemClick(View view, int position) {
+                    public void onItemClick(int position) {
 
                         //String item = adapterView.getItemAtPosition(i).toString();
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".Result2Activity"
-    tools:showIn="@layout/activity_result2">
+    android:orientation="vertical"    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ResultActivity"
+    tools:showIn="@layout/activity_result">
 
     <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/photo_view3"
@@ -15,4 +15,10 @@
         android:layout_weight="1"
         android:src="@drawable/mapa_maceio" />
 
-</android.support.constraint.ConstraintLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.10"/>
+
+</LinearLayout>
